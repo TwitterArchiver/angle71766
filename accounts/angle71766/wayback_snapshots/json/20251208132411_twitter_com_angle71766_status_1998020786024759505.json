@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997862891379368369",
+    "created_at": "2025-12-08T13:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998020786024759505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717746884633333760",
+          "start": 0,
+          "username": "amphibian1982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998020786024759505",
+    "in_reply_to_user_id": "1717746884633333760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997972548009725958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amphibian1982 我用的苹果14"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T13:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998020786024759505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717746884633333760",
+              "start": 0,
+              "username": "amphibian1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998020786024759505",
+        "in_reply_to_user_id": "1717746884633333760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997972548009725958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amphibian1982 我用的苹果14"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717746884633333760",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997972548009725958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997972548009725958",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997862891379368369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 用苹果就可以 苹果烟斗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 47,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 94
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T03:35:55.000Z",
+        "description": "我是一只支那猪，支那猪，快快乐乐把食吃。",
+        "id": "1717746884633333760",
+        "name": "PT141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717747146387275776/KhOPoRYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 500,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 222
+        },
+        "username": "amphibian1982",
+        "verified": false
+      }
+    ]
+  }
+}

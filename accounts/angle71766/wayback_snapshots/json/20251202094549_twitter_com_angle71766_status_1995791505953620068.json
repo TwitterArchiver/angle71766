@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1995531094381527117",
+    "created_at": "2025-12-02T09:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T10:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995791505953620068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995791505953620068",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995531094381527117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 在我家安监控？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1995531076425711618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GM8PSbgAIh5Hh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1995531094381527117",
+        "created_at": "2025-12-02T09:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995791505953620068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995791505953620068",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995531094381527117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 在我家安监控？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995531076425711618"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "conversation_id": "1995531094381527117",
+        "created_at": "2025-12-01T16:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995531094381527117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzE1poBOMm",
+              "end": 23,
+              "expanded_url": "https://x.com/lin_dialog/status/1995531094381527117/photo/1",
+              "media_key": "3_1995531076425711618",
+              "start": 0,
+              "url": "https://t.co/nzE1poBOMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995531094381527117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1252,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nzE1poBOMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 31,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.9 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜非二元性别｜LGBTQ+🏳️‍🌈全友好^^｜查成分回fo｜单机转线上 尝试恢复社交能力中…",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 166,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 674
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

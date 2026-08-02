@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2040418271405416537",
+    "created_at": "2026-04-07T03:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041355372875890699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "wormsarelegends"
+        },
+        {
+          "end": 30,
+          "id": "1501339052053729283",
+          "start": 17,
+          "username": "xuxianshiflj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041355372875890699",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041020718444617900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wormsarelegends @xuxianshiflj 这个人是骗子，以前就遇到过，还说我中奖了继续骗我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2040418271405416537",
+        "created_at": "2026-04-07T03:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041355372875890699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "wormsarelegends"
+            },
+            {
+              "end": 30,
+              "id": "1501339052053729283",
+              "start": 17,
+              "username": "xuxianshiflj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041355372875890699",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041020718444617900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wormsarelegends @xuxianshiflj 这个人是骗子，以前就遇到过，还说我中奖了继续骗我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "2040418271405416537",
+        "created_at": "2026-04-06T05:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041020718444617900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501339052053729283",
+              "start": 0,
+              "username": "xuxianshiflj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041020718444617900",
+        "in_reply_to_user_id": "1501339052053729283",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040418271405416537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxianshiflj 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 147,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 344
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "“何物会失去？”我切切想望。这皆是混沌所经之路，路上映出斑驳阴影。Oh, my mind is all made up, So I'll have to sleep in it.我已经沉入那种惬意的麻木之中了。｜叫我蟑螂，或虫，旧名号已弃用。互fo私信即可捏，欢迎找我玩。",
+        "id": "1763381254035251200",
+        "location": "古老的爬虫脑",
+        "name": "Doin' The Cockroach",
+        "pinned_tweet_id": "2008619892543811801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021590169326067712/p1mtNJJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 542,
+          "like_count": 45502,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 4506
+        },
+        "username": "wormsarelegends",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T23:28:26.000Z",
+        "description": "无",
+        "id": "1501339052053729283",
+        "location": "Hawthorne, CA",
+        "name": "小何",
+        "pinned_tweet_id": "1738890646495404485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842233333142695936/a8PeOL47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 148,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 52
+        },
+        "username": "xuxianshiflj",
+        "verified": false
+      }
+    ]
+  }
+}

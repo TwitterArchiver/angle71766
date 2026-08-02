@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997349559673254221",
+    "created_at": "2025-12-07T05:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T06:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997533966824529933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "Ai_ovedose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997533966824529933",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997349559673254221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_ovedose 尼古丁和pr联用有这样效果吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997349553184673792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7gC1hHbkAAT_ja.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997349559673254221",
+        "created_at": "2025-12-07T05:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997533966824529933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "Ai_ovedose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997533966824529933",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997349559673254221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_ovedose 尼古丁和pr联用有这样效果吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997349553184673792"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "1997349559673254221",
+        "created_at": "2025-12-06T16:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997349559673254221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGCGFRMO5y",
+              "end": 63,
+              "expanded_url": "https://x.com/Ai_ovedose/status/1997349559673254221/photo/1",
+              "media_key": "3_1997349553184673792",
+              "start": 40,
+              "url": "https://t.co/wGCGFRMO5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997349559673254221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果pr没有效果 可以抽烟来加强 我抽了之后居然出现内部幻觉 这个联用体验很好"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果pr没有效果 可以抽烟来加强 我抽了之后居然出现内部幻觉 这个联用体验很好 https://t.co/wGCGFRMO5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "重生版/互Fo",
+        "id": "1980612830824132609",
+        "location": "Hong Kong",
+        "name": "Vee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989174075781226496/VdnzOkFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 256,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "username": "Ai_ovedose",
+        "verified": true
+      }
+    ]
+  }
+}

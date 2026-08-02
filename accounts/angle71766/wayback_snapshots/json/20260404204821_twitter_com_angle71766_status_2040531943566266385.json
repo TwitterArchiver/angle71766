@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2040106122628210745",
+    "created_at": "2026-04-04T20:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T21:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040531943566266385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 21,
+          "id": "1990685914113421313",
+          "start": 9,
+          "username": "Xusinan0520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040531943566266385",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040106122628210745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @Xusinan0520送两盒羟考酮看看实力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040106106715013121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_psfLagAE1mub.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040106105960067072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_pscXa8AA2A-d.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2040106122628210745",
+        "created_at": "2026-04-04T20:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T21:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040531943566266385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 21,
+              "id": "1990685914113421313",
+              "start": 9,
+              "username": "Xusinan0520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040531943566266385",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040106122628210745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @Xusinan0520送两盒羟考酮看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040106106715013121",
+            "3_2040106105960067072"
+          ]
+        },
+        "author_id": "1886385501130866688",
+        "conversation_id": "2040106122628210745",
+        "created_at": "2026-04-03T16:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040106122628210745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSL58RwvdV",
+              "end": 89,
+              "expanded_url": "https://x.com/Lomyral/status/2040106122628210745/photo/1",
+              "media_key": "3_2040106106715013121",
+              "start": 66,
+              "url": "https://t.co/KSL58RwvdV"
+            },
+            {
+              "display_url": "pic.x.com/KSL58RwvdV",
+              "end": 89,
+              "expanded_url": "https://x.com/Lomyral/status/2040106122628210745/photo/1",
+              "media_key": "3_2040106105960067072",
+              "start": 66,
+              "url": "https://t.co/KSL58RwvdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040106122628210745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3174,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "此骗子主页这几张图+视频我来来回回看到不下三个账号用过了，总之先送我一盒氨酚羟考酮看看实力，盐酸曲马多也行我要100mg/t的那种 https://t.co/KSL58RwvdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 149,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 340
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 491,
+          "like_count": 38410,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4583
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T07:38:07.000Z",
+        "description": "思诺思、氯俏西泮、劳拉西泮、扎来普隆，艾司唑仑、阿普唑仑、佑佐等等，各种精二类都能拿到，拿药问价，也可以咨询o完效果",
+        "id": "1990685914113421313",
+        "name": "思诺思（各种精二类）",
+        "pinned_tweet_id": "2035415564794085690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033168301304823808/TWxd3-vD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 61
+        },
+        "username": "Xusinan0520",
+        "verified": false
+      }
+    ]
+  }
+}

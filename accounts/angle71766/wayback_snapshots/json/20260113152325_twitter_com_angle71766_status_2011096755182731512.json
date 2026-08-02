@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2011096755182731512",
+    "created_at": "2026-01-13T15:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011096755182731512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsmesakiisept…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/itsmesakiisept/status/2010413391962386667",
+          "start": 25,
+          "url": "https://t.co/jM3K8edAKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011096755182731512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010413391962386667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "proton邮箱网站好用，不用手机号就能注册邮箱 https://t.co/jM3K8edAKG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2011096755182731512",
+        "created_at": "2026-01-13T15:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011096755182731512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsmesakiisept…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/itsmesakiisept/status/2010413391962386667",
+              "start": 25,
+              "url": "https://t.co/jM3K8edAKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011096755182731512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010413391962386667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "proton邮箱网站好用，不用手机号就能注册邮箱 https://t.co/jM3K8edAKG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803849149248360448",
+        "conversation_id": "2010413391962386667",
+        "created_at": "2026-01-11T18:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010413391962386667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010413391962386667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 434522,
+          "like_count": 690,
+          "quote_count": 1,
+          "reply_count": 78,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我一直不懂为什么要去买x账号啊。这不是邮箱随便注册就行吗，还是有什么别的门道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 100,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 204
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:55:34.000Z",
+        "description": "只想做一个才华横溢的有钱年轻女孩 ｜我蜜蜜@mmuuucc0 @BB40304",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "mmuuucc0"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "BB40304"
+              }
+            ]
+          }
+        },
+        "id": "1803849149248360448",
+        "name": "煮豆燃豆7",
+        "pinned_tweet_id": "1984420889035673887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919363700756213761/d0FjzVLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 190,
+          "like_count": 48821,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 9556
+        },
+        "username": "itsmesakiisept",
+        "verified": false
+      }
+    ]
+  }
+}

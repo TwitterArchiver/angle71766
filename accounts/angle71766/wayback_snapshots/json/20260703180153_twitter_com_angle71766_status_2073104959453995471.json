@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2072903582270255505",
+    "created_at": "2026-07-03T18:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073104959453995471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069077183348543489",
+          "start": 0,
+          "username": "Wiopzkk"
+        },
+        {
+          "end": 23,
+          "id": "2024584670365831169",
+          "start": 9,
+          "username": "luftwaffelive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073104959453995471",
+    "in_reply_to_user_id": "2069077183348543489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072997509908341124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wiopzkk @luftwaffelive 还有这好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2072903582270255505",
+        "created_at": "2026-07-03T18:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073104959453995471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069077183348543489",
+              "start": 0,
+              "username": "Wiopzkk"
+            },
+            {
+              "end": 23,
+              "id": "2024584670365831169",
+              "start": 9,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073104959453995471",
+        "in_reply_to_user_id": "2069077183348543489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072997509908341124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wiopzkk @luftwaffelive 还有这好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069077183348543489",
+        "conversation_id": "2072903582270255505",
+        "created_at": "2026-07-03T10:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072997509908341124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024584670365831169",
+              "start": 0,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072997509908341124",
+        "in_reply_to_user_id": "2024584670365831169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072903582270255505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luftwaffelive 吸毒建议全都可以去死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 158,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T15:18:04.000Z",
+        "description": "最后的轻语",
+        "id": "2069077183348543489",
+        "location": "骂不过就屏蔽=全家死了",
+        "name": "Wiopzkk",
+        "pinned_tweet_id": "2072994373697196358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069078457234198528/S_lCKQL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "Wiopzkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 178,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      }
+    ]
+  }
+}

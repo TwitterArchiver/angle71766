@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1994014756160577985",
+    "created_at": "2025-11-27T19:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T20:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994133266291675154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854915067994841088",
+          "start": 0,
+          "username": "siquanjiale8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994133266291675154",
+    "in_reply_to_user_id": "1854915067994841088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994014756160577985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siquanjiale8964 萌好萌好萌好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994014742579757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wp1_hbwAAxKUB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1994014756160577985",
+        "created_at": "2025-11-27T19:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994133266291675154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854915067994841088",
+              "start": 0,
+              "username": "siquanjiale8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994133266291675154",
+        "in_reply_to_user_id": "1854915067994841088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994014756160577985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siquanjiale8964 萌好萌好萌好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994014742579757056"
+          ]
+        },
+        "author_id": "1854915067994841088",
+        "conversation_id": "1994014756160577985",
+        "created_at": "2025-11-27T12:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994014756160577985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MxoyrfYGb",
+              "end": 25,
+              "expanded_url": "https://x.com/siquanjiale8964/status/1994014756160577985/photo/1",
+              "media_key": "3_1994014742579757056",
+              "start": 2,
+              "url": "https://t.co/1MxoyrfYGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994014756160577985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4265,
+          "like_count": 324,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "😒 https://t.co/1MxoyrfYGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "name": "悽",
+        "pinned_tweet_id": "1993710102592004386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 159,
+          "like_count": 1157,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2481
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2001654976389820574",
+    "created_at": "2025-12-19T09:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001947710291857494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780100207222697984",
+          "start": 0,
+          "username": "TwTxuedi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001947710291857494",
+    "in_reply_to_user_id": "1780100207222697984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001746011518374143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwTxuedi 好地狱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001745944614965248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ehVLdakAAr8fJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2001654976389820574",
+        "created_at": "2025-12-19T09:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001947710291857494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780100207222697984",
+              "start": 0,
+              "username": "TwTxuedi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001947710291857494",
+        "in_reply_to_user_id": "1780100207222697984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001746011518374143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwTxuedi 好地狱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001745944614965248"
+          ]
+        },
+        "author_id": "1780100207222697984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001654976389820574",
+        "created_at": "2025-12-18T20:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T21:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001746011518374143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCPagoSsKc",
+              "end": 50,
+              "expanded_url": "https://x.com/TwTxuedi/status/2001746011518374143/photo/1",
+              "media_key": "3_2001745944614965248",
+              "start": 27,
+              "url": "https://t.co/mCPagoSsKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001746011518374143",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001654976389820574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 啊啊啊笑死我了wtm 我也是 https://t.co/mCPagoSsKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 79,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 156
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T05:05:50.000Z",
+        "description": "🚪188无上限 验证25 谢谢喜欢 (｡･ω･｡)💕",
+        "id": "1780100207222697984",
+        "location": "🐾",
+        "name": "yiyi",
+        "pinned_tweet_id": "1990356632732323950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910596683026542593/U-WmLg9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 138,
+          "like_count": 1898,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 868
+        },
+        "username": "TwTxuedi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006763815153836032",
+        "3_2006763816533766148",
+        "3_2006763816533766151",
+        "3_2006763815153840128"
+      ],
+      "media_source_tweet_id": [
+        "2006763896661835781",
+        "2006763896661835781",
+        "2006763896661835781",
+        "2006763896661835781"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2007111320374800620",
+    "created_at": "2026-01-02T15:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007111320374800620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8ymdZu6WX",
+          "end": 122,
+          "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+          "media_key": "3_2006763815153836032",
+          "start": 99,
+          "url": "https://t.co/B8ymdZu6WX"
+        },
+        {
+          "display_url": "pic.x.com/B8ymdZu6WX",
+          "end": 122,
+          "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+          "media_key": "3_2006763816533766148",
+          "start": 99,
+          "url": "https://t.co/B8ymdZu6WX"
+        },
+        {
+          "display_url": "pic.x.com/B8ymdZu6WX",
+          "end": 122,
+          "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+          "media_key": "3_2006763816533766151",
+          "start": 99,
+          "url": "https://t.co/B8ymdZu6WX"
+        },
+        {
+          "display_url": "pic.x.com/B8ymdZu6WX",
+          "end": 122,
+          "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+          "media_key": "3_2006763815153840128",
+          "start": 99,
+          "url": "https://t.co/B8ymdZu6WX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007111320374800620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006763896661835781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 1000fo抽奖开启，今年第一条抽奖，给大家抽5g装菠萝快车，地区：成都 贵阳 重庆 深圳 广州，关注我 并评论 转发 此条推文，截图发给我，开奖日期：1月9日 https://t.co/B8ymdZu6WX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2006763815153836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1Dr5aIAAPqcP.jpg",
+        "width": 700
+      },
+      {
+        "height": 782,
+        "media_key": "3_2006763816533766148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1DxCaMAQBpM2.jpg",
+        "width": 699
+      },
+      {
+        "height": 499,
+        "media_key": "3_2006763816533766151",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1DxCaMAcASWG.jpg",
+        "width": 500
+      },
+      {
+        "height": 700,
+        "media_key": "3_2006763815153840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1Dr5aMAAEpfU.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006763815153836032",
+            "3_2006763816533766148",
+            "3_2006763816533766151",
+            "3_2006763815153840128"
+          ],
+          "media_source_tweet_id": [
+            "2006763896661835781",
+            "2006763896661835781",
+            "2006763896661835781",
+            "2006763896661835781"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2007111320374800620",
+        "created_at": "2026-01-02T15:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007111320374800620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 122,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153836032",
+              "start": 99,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 122,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766148",
+              "start": 99,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 122,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766151",
+              "start": 99,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 122,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153840128",
+              "start": 99,
+              "url": "https://t.co/B8ymdZu6WX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007111320374800620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006763896661835781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 1000fo抽奖开启，今年第一条抽奖，给大家抽5g装菠萝快车，地区：成都 贵阳 重庆 深圳 广州，关注我 并评论 转发 此条推文，截图发给我，开奖日期：1月9日 https://t.co/B8ymdZu6WX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006763815153836032",
+            "3_2006763816533766148",
+            "3_2006763816533766151",
+            "3_2006763815153840128"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2006763896661835781",
+        "created_at": "2026-01-01T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006763896661835781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153836032",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766148",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766151",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153840128",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006763896661835781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7235,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo抽奖开启，今年第一条抽奖，给大家抽5g装菠萝快车，地区：成都 贵阳 重庆 深圳 广州，关注我 并评论 转发 此条推文，截图发给我，开奖日期：1月9日 https://t.co/B8ymdZu6WX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 101,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 198
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1994233157906788612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997869953601712128/tL9oqeh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 593,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 763
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

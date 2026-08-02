@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1995263159985414189",
+    "created_at": "2025-12-03T02:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996040290189426905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521553831775158273",
+          "start": 0,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 19,
+          "id": "1526098526442295297",
+          "start": 10,
+          "username": "hezehua5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996040290189426905",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995927815540334887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww123qwq @hezehua5 没人逼你干😂自己想拿高薪高福利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1995263159985414189",
+        "created_at": "2025-12-03T02:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996040290189426905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 19,
+              "id": "1526098526442295297",
+              "start": 10,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996040290189426905",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995927815540334887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @hezehua5 没人逼你干😂自己想拿高薪高福利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1995263159985414189",
+        "created_at": "2025-12-02T18:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995927815540334887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1526098526442295297",
+              "start": 0,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995927815540334887",
+        "in_reply_to_user_id": "1526098526442295297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995263159985414189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezehua5 好似🍾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 32,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 55
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1995591006411186236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 262,
+          "like_count": 40725,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 11650
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T07:13:56.000Z",
+        "description": "爱是最美的风景（互关互粉互FO回关followback，回关受限时，则小号回关fb)",
+        "id": "1526098526442295297",
+        "location": "中国",
+        "name": "李婧🇨🇳互关互粉互FO",
+        "pinned_tweet_id": "1995313272309125126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974663993743810561/zhUwomAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117495,
+          "following_count": 42912,
+          "like_count": 23389,
+          "listed_count": 167,
+          "media_count": 13830,
+          "tweet_count": 37204
+        },
+        "username": "hezehua5",
+        "verified": true
+      }
+    ]
+  }
+}

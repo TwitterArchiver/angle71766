@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2026343410463027442",
+    "created_at": "2026-02-24T17:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026343525177241646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026343525177241646",
+    "in_reply_to_user_id": "1990814524556128256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026343410463027442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是走路的话腿会有点不适应,然后药 是无味的,不是固体是粉末,偶尔会有些液 体吃了之后首先是头晕,其次是脸红,到后 来就没意识了。有一种灼烧感然后有点痛, 加快的话就有点麻,就感觉有东西在撞你肚 子一样,并且能感觉到肚子里有东西在往外 顶,然后第二天肚子会胀胀的,酸酸的,很不想动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2026343410463027442",
+        "created_at": "2026-02-24T17:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026343525177241646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026343525177241646",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026343410463027442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是走路的话腿会有点不适应,然后药 是无味的,不是固体是粉末,偶尔会有些液 体吃了之后首先是头晕,其次是脸红,到后 来就没意识了。有一种灼烧感然后有点痛, 加快的话就有点麻,就感觉有东西在撞你肚 子一样,并且能感觉到肚子里有东西在往外 顶,然后第二天肚子会胀胀的,酸酸的,很不想动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2026343410463027442",
+        "created_at": "2026-02-24T17:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026343410463027442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026343410463027442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生被草的感觉是一开始挺疼的,就是感觉 肚子胀胀的很疼,反正第二天醒来就是那种 喉咙痛、身底下痛,就是那种肌肉萎缩了, 然后不想动的那种剧痛,还有就是那种肚子 里特别胀的感觉,像是被卡车碾了似的,但 是你还活着,还能动,缓几天就好,要是有 人揉的话,那应该一天或者半天应该就能好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 143,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 285
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

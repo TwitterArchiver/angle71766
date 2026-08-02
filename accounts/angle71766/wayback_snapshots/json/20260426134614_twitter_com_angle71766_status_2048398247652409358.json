@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2047951981260448215",
+    "created_at": "2026-04-26T13:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048398247652409358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821231795326828544",
+          "start": 0,
+          "username": "Rei_mo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048398247652409358",
+    "in_reply_to_user_id": "1821231795326828544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047951981260448215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei_mo0n 尿液滴净了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2047951981260448215",
+        "created_at": "2026-04-26T13:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048398247652409358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821231795326828544",
+              "start": 0,
+              "username": "Rei_mo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048398247652409358",
+        "in_reply_to_user_id": "1821231795326828544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047951981260448215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei_mo0n 尿液滴净了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821231795326828544",
+        "conversation_id": "2047951981260448215",
+        "created_at": "2026-04-25T08:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047951981260448215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047951981260448215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7089,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 149,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 378
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T17:08:01.000Z",
+        "description": "我只是个小孩子，有点穷，喜欢我可以给我一点钱吗？爱你们！所有人！😙",
+        "id": "1821231795326828544",
+        "location": "🚪52",
+        "name": "わたしだけをみててね",
+        "pinned_tweet_id": "2041353572521058401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924514115848212480/4v9rcCbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 73,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 608
+        },
+        "username": "Rei_mo0n",
+        "verified": false
+      }
+    ]
+  }
+}

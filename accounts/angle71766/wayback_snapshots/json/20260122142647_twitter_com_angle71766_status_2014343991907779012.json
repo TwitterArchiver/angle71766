@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014343747862241280"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "conversation_id": "2014343991907779012",
+    "created_at": "2026-01-22T14:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014343991907779012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjXQ4hRf8i",
+          "end": 59,
+          "expanded_url": "https://x.com/angle71766/status/2014343991907779012/photo/1",
+          "media_key": "3_2014343747862241280",
+          "start": 36,
+          "url": "https://t.co/QjXQ4hRf8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014343991907779012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这辈子就活在这四个软件里了，等我死了这四个软件每个都有一点我的魂魄存在 https://t.co/QjXQ4hRf8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2014343747862241280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Ri91rboAAxpoF.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014343747862241280"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2014343991907779012",
+        "created_at": "2026-01-22T14:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014343991907779012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjXQ4hRf8i",
+              "end": 59,
+              "expanded_url": "https://x.com/angle71766/status/2014343991907779012/photo/1",
+              "media_key": "3_2014343747862241280",
+              "start": 36,
+              "url": "https://t.co/QjXQ4hRf8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014343991907779012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子就活在这四个软件里了，等我死了这四个软件每个都有一点我的魂魄存在 https://t.co/QjXQ4hRf8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 112,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 226
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

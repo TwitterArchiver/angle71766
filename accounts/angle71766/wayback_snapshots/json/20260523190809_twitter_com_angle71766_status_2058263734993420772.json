@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2058102270555046352",
+    "created_at": "2026-05-23T19:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058263734993420772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058263734993420772",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058102270555046352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 会剧烈温暖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2058102270555046352",
+        "created_at": "2026-05-23T19:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058263734993420772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058263734993420772",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058102270555046352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 会剧烈温暖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776627287934537728",
+        "conversation_id": "2058102270555046352",
+        "created_at": "2026-05-23T08:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058102270555046352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058102270555046352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3652,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直没买过白兔。以为和右美沙芬差不多。嗯对。最近才知道是阿片不会血清素综合征。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 153,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 410
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "喜欢看你痛不欲生的样子\n养了只小猫叫あめ。\n肉便器 @ovocaize 防丢失@Rain7x6y\n来找我聊天好不好🥺匿名👇🏻我好孤独",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ovocaize"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Rain7x6y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r%E2%80%86ai%E…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/r%E2%80%86ai%E2%80%86n",
+                "start": 0,
+                "url": "https://t.co/4R0uvNVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2057777640787091779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 276,
+          "like_count": 1070,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/4R0uvNVXCL",
+        "username": "NaiJin66998",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2001643050670707118",
+    "created_at": "2025-12-18T16:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T17:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001686923124027466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001686923124027466",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001643050670707118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg 我就差点被送到这里。。还好我家穷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2001643047990550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dDvzqbYAAwpFe.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2001643050670707118",
+        "created_at": "2025-12-18T16:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001686923124027466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001686923124027466",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001643050670707118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg 我就差点被送到这里。。还好我家穷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001643047990550528"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "2001643050670707118",
+        "created_at": "2025-12-18T13:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001643050670707118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHOKb8yNdP",
+              "end": 72,
+              "expanded_url": "https://x.com/banzaixyg/status/2001643050670707118/photo/1",
+              "media_key": "3_2001643047990550528",
+              "start": 49,
+              "url": "https://t.co/fHOKb8yNdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001643050670707118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早就说过了，寒涟漪有多个暧昧对象并诱导他的暧昧对象贷款供他使用，以及诈骗社会公益人士的公益款项 https://t.co/fHOKb8yNdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 79,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 148
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 560,
+          "like_count": 5125,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2988
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

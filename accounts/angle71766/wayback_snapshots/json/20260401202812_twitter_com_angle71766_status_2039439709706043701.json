@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2037999532794077233",
+    "created_at": "2026-04-01T20:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039439709706043701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756456102340739072",
+          "start": 0,
+          "username": "wagner_jam95309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039439709706043701",
+    "in_reply_to_user_id": "1756456102340739072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038469211346153868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wagner_jam95309 美味😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2037999532794077233",
+        "created_at": "2026-04-01T20:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039439709706043701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756456102340739072",
+              "start": 0,
+              "username": "wagner_jam95309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039439709706043701",
+        "in_reply_to_user_id": "1756456102340739072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038469211346153868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wagner_jam95309 美味😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756456102340739072",
+        "conversation_id": "2037999532794077233",
+        "created_at": "2026-03-30T04:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038469211346153868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038469211346153868",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037999532794077233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 味道咋样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 146,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 328
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T23:12:27.000Z",
+        "description": "助力於個人玩家收穫自主產物 勇敢的小🐑！",
+        "id": "1756456102340739072",
+        "location": " Escanaba ",
+        "name": "火曜日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888587306623459329/wcJknruX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 66
+        },
+        "username": "wagner_jam95309",
+        "verified": false
+      }
+    ]
+  }
+}

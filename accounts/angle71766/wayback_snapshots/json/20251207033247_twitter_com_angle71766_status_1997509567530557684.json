@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997341076953375022",
+    "created_at": "2025-12-07T03:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T04:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997509567530557684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997509567530557684",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997341076953375022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 我也被骗过。。朋友的qq号被盗 说自己住院我给骗子转了2000块。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997341076953375022",
+        "created_at": "2025-12-07T03:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T04:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997509567530557684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997509567530557684",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997341076953375022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 我也被骗过。。朋友的qq号被盗 说自己住院我给骗子转了2000块。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "1997341076953375022",
+        "created_at": "2025-12-06T16:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997341076953375022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997341076953375022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己又变回了那个幼稚的自己，好讨厌.......讨厌幼稚的自己.......不过我现在更讨厌现在这样的我........我把一切错都怪我太幼稚了，我也不懂4月份那时候我为什么不想再幼稚下去了.......因为我总是被别人骗走钱........骂我蠢很傻很难听........比起故意来骗我，我更讨厌现在这种背叛欺骗........"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 76
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "16//叫我小雨就好//无🚪但需要资助//要互关或者加好友请私信然后我看成分//月计 车万 主播女孩 素晴日//宅//缺爱//抑郁//od//cos//碎碎念//自伤//电波//好闺蜜@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991578115949359106/84qVlhCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 503,
+          "like_count": 5131,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 2720
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

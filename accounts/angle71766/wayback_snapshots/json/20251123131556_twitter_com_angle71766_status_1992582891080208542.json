@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992575995627597824",
+        "3_1992575995589849088",
+        "3_1992575995573075968",
+        "3_1992575995619221504"
+      ],
+      "media_source_tweet_id": [
+        "1992576049251815541",
+        "1992576049251815541",
+        "1992576049251815541",
+        "1992576049251815541"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1992582891080208542",
+    "created_at": "2025-11-23T13:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992582891080208542"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "weed"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "大麻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8YiBwVPrC",
+          "end": 78,
+          "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+          "media_key": "3_1992575995627597824",
+          "start": 55,
+          "url": "https://t.co/a8YiBwVPrC"
+        },
+        {
+          "display_url": "pic.x.com/a8YiBwVPrC",
+          "end": 78,
+          "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+          "media_key": "3_1992575995589849088",
+          "start": 55,
+          "url": "https://t.co/a8YiBwVPrC"
+        },
+        {
+          "display_url": "pic.x.com/a8YiBwVPrC",
+          "end": 78,
+          "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+          "media_key": "3_1992575995573075968",
+          "start": 55,
+          "url": "https://t.co/a8YiBwVPrC"
+        },
+        {
+          "display_url": "pic.x.com/a8YiBwVPrC",
+          "end": 78,
+          "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+          "media_key": "3_1992575995619221504",
+          "start": 55,
+          "url": "https://t.co/a8YiBwVPrC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992582891080208542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992576049251815541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 劣质大麻图，sorry Sophia,但它真的很差劲 #weed #大麻 https://t.co/a8YiBwVPrC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1992575995627597824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cNT5dacAAJwAu.jpg",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1992575995589849088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cNT5UacAAAAC5.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1466,
+        "media_key": "3_1992575995573075968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cNT5QagAA3alm.jpg",
+        "width": 1099
+      },
+      {
+        "height": 3439,
+        "media_key": "3_1992575995619221504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cNT5baoAAUGUU.jpg",
+        "width": 3023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992575995627597824",
+            "3_1992575995589849088",
+            "3_1992575995573075968",
+            "3_1992575995619221504"
+          ],
+          "media_source_tweet_id": [
+            "1992576049251815541",
+            "1992576049251815541",
+            "1992576049251815541",
+            "1992576049251815541"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992582891080208542",
+        "created_at": "2025-11-23T13:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992582891080208542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "weed"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "大麻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 78,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995627597824",
+              "start": 55,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 78,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995589849088",
+              "start": 55,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 78,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995573075968",
+              "start": 55,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 78,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995619221504",
+              "start": 55,
+              "url": "https://t.co/a8YiBwVPrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992582891080208542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992576049251815541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 劣质大麻图，sorry Sophia,但它真的很差劲 #weed #大麻 https://t.co/a8YiBwVPrC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992575995627597824",
+            "3_1992575995589849088",
+            "3_1992575995573075968",
+            "3_1992575995619221504"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992576049251815541",
+        "created_at": "2025-11-23T12:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992576049251815541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "weed"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "大麻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 60,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995627597824",
+              "start": 37,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 60,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995589849088",
+              "start": 37,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 60,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995573075968",
+              "start": 37,
+              "url": "https://t.co/a8YiBwVPrC"
+            },
+            {
+              "display_url": "pic.x.com/a8YiBwVPrC",
+              "end": 60,
+              "expanded_url": "https://x.com/420420420CTL/status/1992576049251815541/photo/1",
+              "media_key": "3_1992575995619221504",
+              "start": 37,
+              "url": "https://t.co/a8YiBwVPrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992576049251815541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "劣质大麻图，sorry Sophia,但它真的很差劲 #weed #大麻 https://t.co/a8YiBwVPrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信💚可以任何平台擔保",
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1988839890709012826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974827827179802624/vAqBFqmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 377,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 345
+        },
+        "username": "420420420CTL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2023257936865472982",
+    "created_at": "2026-02-16T18:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023459241382781240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1054755477542756352",
+          "start": 0,
+          "username": "SPACERADIO_626"
+        },
+        {
+          "end": 26,
+          "id": "1641968587102621696",
+          "start": 16,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023459241382781240",
+    "in_reply_to_user_id": "1054755477542756352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023265917829030203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPACERADIO_626 @0voki33Me 什么joint能有1g？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2023257936865472982",
+        "created_at": "2026-02-16T18:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023459241382781240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1054755477542756352",
+              "start": 0,
+              "username": "SPACERADIO_626"
+            },
+            {
+              "end": 26,
+              "id": "1641968587102621696",
+              "start": 16,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023459241382781240",
+        "in_reply_to_user_id": "1054755477542756352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023265917829030203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPACERADIO_626 @0voki33Me 什么joint能有1g？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054755477542756352",
+        "conversation_id": "2023257936865472982",
+        "created_at": "2026-02-16T05:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023265917829030203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023265917829030203",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023257936865472982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 1200哪里有20+次，一卷joint不是1克左右吗，0.5克也太少了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 141,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 267
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022772887330131969/iAiXOQtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 318,
+          "like_count": 3081,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2860
+        },
+        "username": "SPACERADIO_626",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1077,
+          "like_count": 5133,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

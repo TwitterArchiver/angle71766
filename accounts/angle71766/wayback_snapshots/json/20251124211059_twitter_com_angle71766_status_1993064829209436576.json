@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1992992204248256692",
+    "created_at": "2025-11-24T21:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993064829209436576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "451578976",
+          "start": 0,
+          "username": "tylertheuzivert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993064829209436576",
+    "in_reply_to_user_id": "451578976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992992204248256692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tylertheuzivert 閃電"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1992992204248256692",
+        "created_at": "2025-11-24T21:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993064829209436576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "451578976",
+              "start": 0,
+              "username": "tylertheuzivert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993064829209436576",
+        "in_reply_to_user_id": "451578976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992992204248256692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tylertheuzivert 閃電"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "451578976",
+        "conversation_id": "1992992204248256692",
+        "created_at": "2025-11-24T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992992204248256692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992992204248256692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的梯子爆炸了 谁有好用的求推推😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T18:16:39.000Z",
+        "description": "一个ADHDer……..大部分促智药都有，目前正常发货 私信回复不及时可联系Tg @tylertheuzivert TG药物频道https://t.co/MH6N1mbmR9 投诉快递一律不退不发货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "tylertheuzivert"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 87,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 64,
+                "url": "https://t.co/MH6N1mbmR9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 23,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 0,
+                "url": "https://t.co/MH6N1mbmR9"
+              }
+            ]
+          }
+        },
+        "id": "451578976",
+        "name": "Tyler促智/苯基吡拉西坦/noopept/利他林/聪明药/专注达",
+        "pinned_tweet_id": "1988224709159514423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977015448563785728/M-BtDaob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 77,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/MH6N1mbmR9",
+        "username": "tylertheuzivert",
+        "verified": false
+      }
+    ]
+  }
+}

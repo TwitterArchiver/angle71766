@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997862407188959232",
+        "3_1997862446980276224"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997862891379368369",
+    "created_at": "2025-12-08T02:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T03:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997862891379368369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xWUAcxpAA",
+          "end": 49,
+          "expanded_url": "https://x.com/angle71766/status/1997862891379368369/photo/1",
+          "media_key": "3_1997862407188959232",
+          "start": 26,
+          "url": "https://t.co/3xWUAcxpAA"
+        },
+        {
+          "display_url": "pic.x.com/3xWUAcxpAA",
+          "end": 49,
+          "expanded_url": "https://x.com/angle71766/status/1997862891379368369/photo/1",
+          "media_key": "3_1997862446980276224",
+          "start": 26,
+          "url": "https://t.co/3xWUAcxpAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997862891379368369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "细支的好难灌，感觉不止我一个人没烟纸的时候这样灌过 https://t.co/3xWUAcxpAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3225,
+        "media_key": "3_1997862407188959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nVRjKa0AAIyWe.jpg",
+        "width": 2419
+      },
+      {
+        "height": 2419,
+        "media_key": "3_1997862446980276224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nVT3ZaIAAIJDd.jpg",
+        "width": 3225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997862407188959232",
+            "3_1997862446980276224"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T02:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997862891379368369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xWUAcxpAA",
+              "end": 49,
+              "expanded_url": "https://x.com/angle71766/status/1997862891379368369/photo/1",
+              "media_key": "3_1997862407188959232",
+              "start": 26,
+              "url": "https://t.co/3xWUAcxpAA"
+            },
+            {
+              "display_url": "pic.x.com/3xWUAcxpAA",
+              "end": 49,
+              "expanded_url": "https://x.com/angle71766/status/1997862891379368369/photo/1",
+              "media_key": "3_1997862446980276224",
+              "start": 26,
+              "url": "https://t.co/3xWUAcxpAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997862891379368369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细支的好难灌，感觉不止我一个人没烟纸的时候这样灌过 https://t.co/3xWUAcxpAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 43,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 86
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2076820898154487974",
+    "created_at": "2026-07-14T00:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076820898154487974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/666666666ZT/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/666666666ZT/status/2076612959242158463",
+          "start": 11,
+          "url": "https://t.co/FNMTifFnPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076820898154487974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076612959242158463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警官2u借一下警务通 https://t.co/FNMTifFnPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076612955266031616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGcev6bIAAtPlA.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2076820898154487974",
+        "created_at": "2026-07-14T00:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076820898154487974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/666666666ZT/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/666666666ZT/status/2076612959242158463",
+              "start": 11,
+              "url": "https://t.co/FNMTifFnPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076820898154487974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076612959242158463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警官2u借一下警务通 https://t.co/FNMTifFnPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076612955266031616"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076612959242158463",
+        "created_at": "2026-07-13T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076612959242158463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNNsEL7b90",
+              "end": 48,
+              "expanded_url": "https://x.com/666666666ZT/status/2076612959242158463/photo/1",
+              "media_key": "3_2076612955266031616",
+              "start": 25,
+              "url": "https://t.co/sNNsEL7b90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076612959242158463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 31973,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "单位终于批准我使用警务通了，可惜就是叫我不要乱用 https://t.co/sNNsEL7b90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 156,
+          "like_count": 349,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 294,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

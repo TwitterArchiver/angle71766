@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2047898697741340996",
+    "created_at": "2026-04-25T19:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T20:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048116123317801434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "5t0nerH4mst3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048116123317801434",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047898697741340996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5t0nerH4mst3r 吃的捏 软糖巧克力这种，感觉也挺隐蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2047898697741340996",
+        "created_at": "2026-04-25T19:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048116123317801434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "5t0nerH4mst3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048116123317801434",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047898697741340996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5t0nerH4mst3r 吃的捏 软糖巧克力这种，感觉也挺隐蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "2047898697741340996",
+        "created_at": "2026-04-25T04:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047898697741340996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047898697741340996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我接下来是买干花还是买电子烟，我目前心里倾向买电子烟因为比较方便在外面抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 150,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 377
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "只是想要变得幸福 | 可能已存活千年 | 顺女/或许是双/泛 | 查成分回fo | 大概是戒药成功了| LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist/Goth/Metalhead",
+        "id": "1903417613671415808",
+        "name": "外星之吸血鼠儿",
+        "pinned_tweet_id": "2031353330346373174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047528736028004353/alOiEhJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 119,
+          "like_count": 9250,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2103
+        },
+        "username": "5t0nerH4mst3r",
+        "verified": false
+      }
+    ]
+  }
+}

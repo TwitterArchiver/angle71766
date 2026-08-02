@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994124639057137665",
+        "3_1994124678819139585",
+        "3_1994124678819139587"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994124773207757173",
+    "created_at": "2025-11-27T19:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T20:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994124773207757173"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "大麻"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hurk3rMeZK",
+          "end": 40,
+          "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+          "media_key": "3_1994124639057137665",
+          "start": 17,
+          "url": "https://t.co/hurk3rMeZK"
+        },
+        {
+          "display_url": "pic.x.com/hurk3rMeZK",
+          "end": 40,
+          "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+          "media_key": "3_1994124678819139585",
+          "start": 17,
+          "url": "https://t.co/hurk3rMeZK"
+        },
+        {
+          "display_url": "pic.x.com/hurk3rMeZK",
+          "end": 40,
+          "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+          "media_key": "3_1994124678819139587",
+          "start": 17,
+          "url": "https://t.co/hurk3rMeZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994124773207757173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安 。。使用魔法香烟中 #大麻 https://t.co/hurk3rMeZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_1994124639057137665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yNyzza0AEgBDc.jpg",
+        "width": 708
+      },
+      {
+        "height": 3225,
+        "media_key": "3_1994124678819139585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yN1H7a0AE2fxF.jpg",
+        "width": 2419
+      },
+      {
+        "height": 3225,
+        "media_key": "3_1994124678819139587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yN1H7a0AMNoID.jpg",
+        "width": 2419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994124639057137665",
+            "3_1994124678819139585",
+            "3_1994124678819139587"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994124773207757173",
+        "created_at": "2025-11-27T19:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994124773207757173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "大麻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hurk3rMeZK",
+              "end": 40,
+              "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+              "media_key": "3_1994124639057137665",
+              "start": 17,
+              "url": "https://t.co/hurk3rMeZK"
+            },
+            {
+              "display_url": "pic.x.com/hurk3rMeZK",
+              "end": 40,
+              "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+              "media_key": "3_1994124678819139585",
+              "start": 17,
+              "url": "https://t.co/hurk3rMeZK"
+            },
+            {
+              "display_url": "pic.x.com/hurk3rMeZK",
+              "end": 40,
+              "expanded_url": "https://x.com/angle71766/status/1994124773207757173/photo/1",
+              "media_key": "3_1994124678819139587",
+              "start": 17,
+              "url": "https://t.co/hurk3rMeZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994124773207757173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 。。使用魔法香烟中 #大麻 https://t.co/hurk3rMeZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

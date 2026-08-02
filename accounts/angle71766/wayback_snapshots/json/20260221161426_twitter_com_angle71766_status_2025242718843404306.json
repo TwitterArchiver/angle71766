@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025242616615632900"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "conversation_id": "2025242718843404306",
+    "created_at": "2026-02-21T16:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025242718843404306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQ63xDwWms",
+          "end": 23,
+          "expanded_url": "https://x.com/angle71766/status/2025242718843404306/video/1",
+          "media_key": "13_2025242616615632900",
+          "start": 0,
+          "url": "https://t.co/iQ63xDwWms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025242718843404306",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/iQ63xDwWms"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28421,
+        "height": 1080,
+        "media_key": "13_2025242616615632900",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025242616615632900/img/adjekeBBQNfuRtDe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025242616615632900/vid/avc1/320x568/myQG-5OTjMmkMAty.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025242616615632900/vid/avc1/480x852/I_kOCCdgz5DE9yYQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025242616615632900/vid/avc1/608x1080/56J6koCinGxyupdN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025242616615632900/pl/45F3ueXsQEXsB2vw.m3u8?tag=14"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025242616615632900"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2025242718843404306",
+        "created_at": "2026-02-21T16:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025242718843404306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQ63xDwWms",
+              "end": 23,
+              "expanded_url": "https://x.com/angle71766/status/2025242718843404306/video/1",
+              "media_key": "13_2025242616615632900",
+              "start": 0,
+              "url": "https://t.co/iQ63xDwWms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025242718843404306",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iQ63xDwWms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 142,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 276
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

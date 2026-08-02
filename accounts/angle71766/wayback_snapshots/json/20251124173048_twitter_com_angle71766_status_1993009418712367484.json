@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1992883712762273887",
+    "created_at": "2025-11-24T17:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993009418712367484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607388730914140160",
+          "start": 0,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993009418712367484",
+    "in_reply_to_user_id": "1607388730914140160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992883712762273887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popcat1234566 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_1992883708324642816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6glLIlagAAvTVW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1992883712762273887",
+        "created_at": "2025-11-24T17:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993009418712367484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993009418712367484",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992883712762273887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992883708324642816"
+          ]
+        },
+        "author_id": "1607388730914140160",
+        "conversation_id": "1992883712762273887",
+        "created_at": "2025-11-24T09:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992883712762273887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWVCeaC3d4",
+              "end": 36,
+              "expanded_url": "https://x.com/popcat1234566/status/1992883712762273887/photo/1",
+              "media_key": "3_1992883708324642816",
+              "start": 13,
+              "url": "https://t.co/jWVCeaC3d4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992883712762273887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1381,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在于压榨人工（我）费用。 https://t.co/jWVCeaC3d4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n承接suki遗愿 我可能不卖致幻剂了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984553337262653442/phttdV1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 657,
+          "like_count": 36353,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

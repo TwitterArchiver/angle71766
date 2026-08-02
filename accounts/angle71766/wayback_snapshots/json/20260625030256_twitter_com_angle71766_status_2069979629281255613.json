@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2069690282493526492",
+    "created_at": "2026-06-25T03:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069979629281255613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069979629281255613",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069690282493526492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV 一看右下角豆包ai生成"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2069690274125848576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkEVrBaIAAUu2R.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2069690282493526492",
+        "created_at": "2026-06-25T03:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069979629281255613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069979629281255613",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069690282493526492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV 一看右下角豆包ai生成"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069690274125848576"
+          ]
+        },
+        "author_id": "1867596733884379136",
+        "conversation_id": "2069690282493526492",
+        "created_at": "2026-06-24T07:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069690282493526492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz9sOHw2Yf",
+              "end": 130,
+              "expanded_url": "https://x.com/VmikufansV/status/2069690282493526492/photo/1",
+              "media_key": "3_2069690274125848576",
+              "start": 107,
+              "url": "https://t.co/uz9sOHw2Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069690282493526492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1368,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我真服了，我从这里打舞萌的那个讨口子又来了他妈还拌我胳膊，全miss了😅\n乐死我了我又不是不知道残疾证长什么样，这个乐子拿了个纸就过来。\n给她搜残疾证图片，她就跑了🤣\n脸盲是吧一天找我要好几回😅看我好欺负来的 https://t.co/uz9sOHw2Yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 153,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 231,
+          "like_count": 799,
+          "listed_count": 5,
+          "media_count": 990,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

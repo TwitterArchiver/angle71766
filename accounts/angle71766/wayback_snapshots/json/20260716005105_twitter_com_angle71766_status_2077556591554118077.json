@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2077101006102700439",
+    "created_at": "2026-07-16T00:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077556591554118077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077556591554118077",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077101006102700439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 好随性的卷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077100994174111744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNYWWhb0AAj7X-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077100994207629312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNYWWpbQAAYJyd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2077101006102700439",
+        "created_at": "2026-07-16T00:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077556591554118077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077556591554118077",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077101006102700439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 好随性的卷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077100994174111744",
+            "3_2077100994207629312"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2077101006102700439",
+        "created_at": "2026-07-14T18:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077101006102700439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrw5QuXlv0",
+              "end": 62,
+              "expanded_url": "https://x.com/Jy666992/status/2077101006102700439/photo/1",
+              "media_key": "3_2077100994174111744",
+              "start": 39,
+              "url": "https://t.co/vrw5QuXlv0"
+            },
+            {
+              "display_url": "pic.x.com/vrw5QuXlv0",
+              "end": 62,
+              "expanded_url": "https://x.com/Jy666992/status/2077101006102700439/photo/1",
+              "media_key": "3_2077100994207629312",
+              "start": 39,
+              "url": "https://t.co/vrw5QuXlv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077101006102700439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 26185,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈比笑死我了\n这是我卷的大麻\n能不能抽我现在下楼试试「我再也不在室内抽烟了 https://t.co/vrw5QuXlv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 155,
+          "like_count": 358,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 354,
+          "like_count": 1862,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

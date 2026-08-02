@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2014786024866775310",
+    "created_at": "2026-01-25T13:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015417164929659323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015417164929659323",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014786024866775310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 棋谱你这下高兴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2014786024866775310",
+        "created_at": "2026-01-25T13:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015417164929659323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015417164929659323",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014786024866775310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 棋谱你这下高兴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2014786024866775310",
+        "created_at": "2026-01-23T19:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T20:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014786024866775310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014786024866775310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18812,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁有新中国第一毒枭的消息啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 116,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 235
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2014779606717653239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 70,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

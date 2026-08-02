@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2071121000629166269",
+    "created_at": "2026-06-29T07:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071493296766210432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "fanwei_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071493296766210432",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071121000629166269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanwei_17 大麻到底哪里算吸毒了奥克兰都四五个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2071117910119243777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4WxBibYAEX2cE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2071121000629166269",
+        "created_at": "2026-06-29T07:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071493296766210432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071493296766210432",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071121000629166269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 大麻到底哪里算吸毒了奥克兰都四五个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071117910119243777"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2071121000629166269",
+        "created_at": "2026-06-28T06:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071121000629166269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHSLpAQkoy",
+              "end": 115,
+              "expanded_url": "https://x.com/fanwei_17/status/2071121000629166269/photo/1",
+              "media_key": "3_2071117910119243777",
+              "start": 92,
+              "url": "https://t.co/oHSLpAQkoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071121000629166269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3950,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "顺便主观锐评一下这些物质\nA：上市药\nB：策划药\n红A：drug\n星号*：没试过，主观猜测\n数字越小→滥用潜力越高\n综合了以成瘾性(和其他代价)、娱乐价值(和其他收获)决定的滥用潜力 https://t.co/oHSLpAQkoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 153,
+          "like_count": 304,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 1554,
+          "like_count": 5690,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}

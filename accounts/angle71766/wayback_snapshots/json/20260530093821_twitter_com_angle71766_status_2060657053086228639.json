@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060656837796794368"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060657053086228639",
+    "created_at": "2026-05-30T09:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060657053086228639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H3e1g31SxM",
+          "end": 31,
+          "expanded_url": "https://x.com/angle71766/status/2060657053086228639/photo/1",
+          "media_key": "3_2060656837796794368",
+          "start": 8,
+          "url": "https://t.co/H3e1g31SxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060657053086228639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "写这个文的神了 https://t.co/H3e1g31SxM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2060656837796794368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjseeTbkAA1QvN.jpg",
+        "width": 1595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060656837796794368"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060657053086228639",
+        "created_at": "2026-05-30T09:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060657053086228639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3e1g31SxM",
+              "end": 31,
+              "expanded_url": "https://x.com/angle71766/status/2060657053086228639/photo/1",
+              "media_key": "3_2060656837796794368",
+              "start": 8,
+              "url": "https://t.co/H3e1g31SxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060657053086228639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写这个文的神了 https://t.co/H3e1g31SxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 152,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 414
+        },
+        "username": "angle71766",
+        "verified": true
+      }
+    ]
+  }
+}

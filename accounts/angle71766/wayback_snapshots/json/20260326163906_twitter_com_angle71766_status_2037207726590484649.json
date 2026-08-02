@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2037207726590484649",
+    "created_at": "2026-03-26T16:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037207726590484649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DZM_007/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/DZM_007/status/2037086527352955166",
+          "start": 15,
+          "url": "https://t.co/TYjjNoUrZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037207726590484649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037086527352955166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药圈人有药圈人自己的人口普查 https://t.co/TYjjNoUrZJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2037207726590484649",
+        "created_at": "2026-03-26T16:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037207726590484649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DZM_007/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/DZM_007/status/2037086527352955166",
+              "start": 15,
+              "url": "https://t.co/TYjjNoUrZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037207726590484649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037086527352955166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药圈人有药圈人自己的人口普查 https://t.co/TYjjNoUrZJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794446081197277185",
+        "conversation_id": "2037086527352955166",
+        "created_at": "2026-03-26T08:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037086527352955166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037086527352955166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6388,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想知道各位oder、自伤的宝宝们都多大呀(´･ω･`)平时都在干些什么 是不是休学或者辍学了？没有休学辍学的话学校对自己是什么态度(´･ω･`)？如果休学/辍学了的话 衣食住行该怎么解决 经济来源又是什么(´･ω･`)从哪获得购入药物和雷服的money(＞人＜;)还有房租水电什么的都该如何解决…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 145,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 319
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T19:11:23.000Z",
+        "description": "🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐈‍⬛·\n🖤人类学不会飞翔 但却很容易堕落\n🖤我是失電巫，可以叫我電子貓/小巫\n🖤线下查无此人，我来自p图软件",
+        "id": "1794446081197277185",
+        "name": "失電巫",
+        "pinned_tweet_id": "2037204733333823653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037205536341712897/M4t3R3QV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 71,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 90
+        },
+        "username": "DZM_007",
+        "verified": false
+      }
+    ]
+  }
+}

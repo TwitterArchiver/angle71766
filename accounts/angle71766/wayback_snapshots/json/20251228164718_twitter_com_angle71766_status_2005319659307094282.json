@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2004991036653994425",
+    "created_at": "2025-12-28T16:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T17:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005319659307094282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1443795839571296260",
+          "start": 0,
+          "username": "S_mss668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005319659307094282",
+    "in_reply_to_user_id": "1443795839571296260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005295848792715725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_mss668 就是上次我买的手机只让我用爱思助手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2004991036653994425",
+        "created_at": "2025-12-28T16:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005319659307094282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443795839571296260",
+              "start": 0,
+              "username": "S_mss668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005319659307094282",
+        "in_reply_to_user_id": "1443795839571296260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005295848792715725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_mss668 就是上次我买的手机只让我用爱思助手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443795839571296260",
+        "conversation_id": "2004991036653994425",
+        "created_at": "2025-12-28T15:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005295848792715725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005295848792715725",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004991036653994425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 600不能再多了   上个月买的原屏的11才五百多  唯一的缺陷是外壳磕碰有点多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 97,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 189
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T04:32:18.000Z",
+        "description": "字母圈玩家，喜欢尝试各种东西。",
+        "id": "1443795839571296260",
+        "name": "S. 魔",
+        "pinned_tweet_id": "1722251929768894803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556268726731034624/ZMWtjkR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 135,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 231
+        },
+        "username": "S_mss668",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2059479690189082969",
+    "created_at": "2026-05-27T03:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059479690189082969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2058852859643674777",
+          "start": 72,
+          "url": "https://t.co/deFDUFJhzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059479690189082969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058852859643674777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结晶化就一群天天盗文案发帖哄骗未成年卖一些小作坊不知名成分副作用上吐下泻坑害o圈人的烂药，我朋友买了喷射呕吐了两天，千万不要买结晶化的任何东西 https://t.co/deFDUFJhzy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2059479690189082969",
+        "created_at": "2026-05-27T03:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059479690189082969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2058852859643674777",
+              "start": 72,
+              "url": "https://t.co/deFDUFJhzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059479690189082969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058852859643674777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结晶化就一群天天盗文案发帖哄骗未成年卖一些小作坊不知名成分副作用上吐下泻坑害o圈人的烂药，我朋友买了喷射呕吐了两天，千万不要买结晶化的任何东西 https://t.co/deFDUFJhzy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2058852859643674777",
+        "created_at": "2026-05-25T10:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058852859643674777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058852859643674777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3620,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "插句题外话，结晶化作为一个药商大搞wiki才是我当下反感它的最大原因。\n\n沐雨在药百wiki里宣传其名下rc月尘(3-MeO-PCE)“完美无副作用”，利用大家对wiki的信任谋私利的恶性事件才过去了多久？不要高估药商的道德底线，无人能保证药商wiki主不会在其编写的wiki中夹带私货。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 154,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 412
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 1441,
+          "like_count": 4515,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 2238
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

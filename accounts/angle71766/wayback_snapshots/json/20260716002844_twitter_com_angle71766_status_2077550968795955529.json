@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2077061273796456570",
+    "created_at": "2026-07-16T00:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077550968795955529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762178935012610048",
+          "start": 0,
+          "username": "rLMj8iYK5v3459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077550968795955529",
+    "in_reply_to_user_id": "1762178935012610048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077061273796456570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rLMj8iYK5v3459 刻板发型刻板卧蚕刻板睫毛刻板眼影。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2077061270340300800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM0OHta8AArBG7.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2077061273796456570",
+        "created_at": "2026-07-16T00:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077550968795955529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762178935012610048",
+              "start": 0,
+              "username": "rLMj8iYK5v3459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077550968795955529",
+        "in_reply_to_user_id": "1762178935012610048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077061273796456570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rLMj8iYK5v3459 刻板发型刻板卧蚕刻板睫毛刻板眼影。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077061270340300800"
+          ]
+        },
+        "author_id": "1762178935012610048",
+        "conversation_id": "2077061273796456570",
+        "created_at": "2026-07-14T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077061273796456570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpxZ9lEzMb",
+              "end": 30,
+              "expanded_url": "https://x.com/rLMj8iYK5v3459/status/2077061273796456570/photo/1",
+              "media_key": "3_2077061270340300800",
+              "start": 7,
+              "url": "https://t.co/dpxZ9lEzMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077061273796456570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13357,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子你是不是 https://t.co/dpxZ9lEzMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 155,
+          "like_count": 356,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，同类可以找我聊天喵，看看比那种滚，直fo就是眼熟你喜欢你😽，查成分回fo",
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 62,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      }
+    ]
+  }
+}

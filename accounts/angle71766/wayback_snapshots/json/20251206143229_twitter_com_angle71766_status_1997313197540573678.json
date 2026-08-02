@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1996879325430505885",
+    "created_at": "2025-12-06T14:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997313197540573678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982386432573591552",
+          "start": 0,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997313197540573678",
+    "in_reply_to_user_id": "1982386432573591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996879325430505885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynNanaNya 晶哥会想要你国内支付记录，用了国内微信 支付宝 都会追溯到，会想要你快递发货记录，现在的快递都是实名认证发货，不要透露个人信息就没问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1996879318153359360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZXKPHa8AAlJrR.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1996879325430505885",
+        "created_at": "2025-12-06T14:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997313197540573678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982386432573591552",
+              "start": 0,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997313197540573678",
+        "in_reply_to_user_id": "1982386432573591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996879325430505885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynNanaNya 晶哥会想要你国内支付记录，用了国内微信 支付宝 都会追溯到，会想要你快递发货记录，现在的快递都是实名认证发货，不要透露个人信息就没问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996879318153359360"
+          ]
+        },
+        "author_id": "1982386432573591552",
+        "conversation_id": "1996879325430505885",
+        "created_at": "2025-12-05T09:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996879325430505885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MJsXsZhpA",
+              "end": 30,
+              "expanded_url": "https://x.com/XynNanaNya/status/1996879325430505885/photo/1",
+              "media_key": "3_1996879318153359360",
+              "start": 7,
+              "url": "https://t.co/0MJsXsZhpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996879325430505885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 59006,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是晶哥吗🧐 https://t.co/0MJsXsZhpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 38,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 72
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄1年的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 最烦人的姐姐@DianaAnya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 33,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": false
+      }
+    ]
+  }
+}

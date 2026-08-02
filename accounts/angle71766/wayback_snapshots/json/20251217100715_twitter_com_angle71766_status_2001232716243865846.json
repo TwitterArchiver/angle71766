@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2001014533503201616",
+    "created_at": "2025-12-17T10:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001232716243865846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815878828419629056",
+          "start": 0,
+          "username": "qiqi1127520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001232716243865846",
+    "in_reply_to_user_id": "1815878828419629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001014533503201616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi1127520 富人让自己变更富有的方式不是赚更多钱，而是让其他人更穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2001014533503201616",
+        "created_at": "2025-12-17T10:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001232716243865846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815878828419629056",
+              "start": 0,
+              "username": "qiqi1127520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001232716243865846",
+        "in_reply_to_user_id": "1815878828419629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001014533503201616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi1127520 富人让自己变更富有的方式不是赚更多钱，而是让其他人更穷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815878828419629056",
+        "conversation_id": "2001014533503201616",
+        "created_at": "2025-12-16T19:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T20:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001014533503201616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001014533503201616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3599,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得这个社会非常的恶心 我不知道是中国这样还是所有国家这样 因为我发现现在中国普通百姓真的完全就是赚不到钱 但是有钱的那些富二代还是照样有钱 经济下行为什么物价这么贵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 79,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 133
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "双相#虽然大部分都在郁期 有时候会突然精神 不要去关注我国内社交软件谢谢☺️",
+        "id": "1815878828419629056",
+        "name": "kiro",
+        "pinned_tweet_id": "1995737289104748689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998418685254635520/lTGjR6mY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 102,
+          "like_count": 3112,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 1053
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2013604278435488082",
+    "created_at": "2026-01-21T06:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013868722012738029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823042589760880640",
+          "start": 0,
+          "username": "chuyinweilai114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013868722012738029",
+    "in_reply_to_user_id": "1823042589760880640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013794739137716534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuyinweilai114 兑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2013604278435488082",
+        "created_at": "2026-01-21T06:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013868722012738029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823042589760880640",
+              "start": 0,
+              "username": "chuyinweilai114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013868722012738029",
+        "in_reply_to_user_id": "1823042589760880640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013794739137716534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyinweilai114 兑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823042589760880640",
+        "conversation_id": "2013604278435488082",
+        "created_at": "2026-01-21T02:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013794739137716534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013794739137716534",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013604278435488082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 这是大麻吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 104,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 221
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T17:03:31.000Z",
+        "description": "精神病小药娘，07年/50kg/179cm\n\n自杀未遂，过完年三月份接着来",
+        "id": "1823042589760880640",
+        "name": "yice🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2013421036910367102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009757561474691075/8D9PV4XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "username": "chuyinweilai114",
+        "verified": false
+      }
+    ]
+  }
+}

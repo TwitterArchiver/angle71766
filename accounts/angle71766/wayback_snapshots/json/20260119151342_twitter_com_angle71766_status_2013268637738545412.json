@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2013241023657562330",
+    "created_at": "2026-01-19T15:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013268637738545412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897151262161825792",
+          "start": 0,
+          "username": "lollipop2931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013268637738545412",
+    "in_reply_to_user_id": "1897151262161825792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013267656149750204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lollipop2931 美宜佳全是假烟，真烟也参了助燃剂，现在的烟我感觉越烧越快了，我抽了8口就没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2013241023657562330",
+        "created_at": "2026-01-19T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013268637738545412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897151262161825792",
+              "start": 0,
+              "username": "lollipop2931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013268637738545412",
+        "in_reply_to_user_id": "1897151262161825792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013267656149750204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lollipop2931 美宜佳全是假烟，真烟也参了助燃剂，现在的烟我感觉越烧越快了，我抽了8口就没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897151262161825792",
+        "conversation_id": "2013241023657562330",
+        "created_at": "2026-01-19T15:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013267656149750204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013267656149750204",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013241023657562330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 比烟的危害低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 101,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 218
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T05:04:54.000Z",
+        "description": "我恨互联网",
+        "id": "1897151262161825792",
+        "location": "天堂，前列县",
+        "name": "原野森清",
+        "pinned_tweet_id": "2012613339856110005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984872203616468992/bGl9pFzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 27,
+          "like_count": 14338,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 855
+        },
+        "username": "lollipop2931",
+        "verified": false
+      }
+    ]
+  }
+}

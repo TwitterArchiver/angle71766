@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2039438498688795011",
+    "created_at": "2026-04-01T20:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039438498688795011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoniu6161/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Xiaoniu6161/status/2039299500309909766",
+          "start": 19,
+          "url": "https://t.co/aeaUAZRS62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039438498688795011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039299500309909766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全红婵退出国家队就是因为看了这个视频 https://t.co/aeaUAZRS62"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34400,
+        "height": 1920,
+        "media_key": "13_2039299402221940736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039299402221940736/img/cfAUwU8W255RMPjJ.jpg",
+        "public_metrics": {
+          "view_count": 43643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039299402221940736/vid/avc1/320x568/WRl5U3m_8bccpOkI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039299402221940736/vid/avc1/720x1280/8EExzxh9YBDDdvVP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039299402221940736/vid/avc1/480x852/eaypux8UM66pwLEJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039299402221940736/pl/KorjuXOiinC7XVWe.m3u8?v=bd7"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039299402221940736/vid/avc1/1080x1920/_ahBYFXLNivwSV8o.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 900,
+        "media_key": "3_2039299402196774912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0MAGqa8AAzsnh.jpg",
+        "width": 460
+      },
+      {
+        "height": 900,
+        "media_key": "3_2039299402196729856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0MAGqaQAApAx-.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2039438498688795011",
+        "created_at": "2026-04-01T20:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039438498688795011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoniu6161/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Xiaoniu6161/status/2039299500309909766",
+              "start": 19,
+              "url": "https://t.co/aeaUAZRS62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039438498688795011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039299500309909766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全红婵退出国家队就是因为看了这个视频 https://t.co/aeaUAZRS62"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039299402221940736",
+            "3_2039299402196774912",
+            "3_2039299402196729856"
+          ]
+        },
+        "author_id": "1240545827333914624",
+        "conversation_id": "2039299500309909766",
+        "created_at": "2026-04-01T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039299500309909766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G85vuG3623",
+              "end": 53,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2039299500309909766/video/1",
+              "media_key": "13_2039299402221940736",
+              "start": 30,
+              "url": "https://t.co/G85vuG3623"
+            },
+            {
+              "display_url": "pic.x.com/G85vuG3623",
+              "end": 53,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2039299500309909766/video/1",
+              "media_key": "3_2039299402196774912",
+              "start": 30,
+              "url": "https://t.co/G85vuG3623"
+            },
+            {
+              "display_url": "pic.x.com/G85vuG3623",
+              "end": 53,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2039299500309909766/video/1",
+              "media_key": "3_2039299402196729856",
+              "start": 30,
+              "url": "https://t.co/G85vuG3623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039299500309909766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 88462,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "4 月 1 日，中国，海口，一中国男子以跳水姿势跳楼自杀🥹 https://t.co/G85vuG3623"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 146,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 326
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T07:49:29.000Z",
+        "description": "预测市场群：https://t.co/ZKHf21DTKM\n币圈交流群：https://t.co/TU11hhS4xP\n美股交流群：https://t.co/pMSN66D3Dd\n链上盈利过亿实时喊单记录：https://t.co/oD1wI5RXXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/polymarket88",
+                "end": 29,
+                "expanded_url": "https://t.me/polymarket88",
+                "start": 6,
+                "url": "https://t.co/ZKHf21DTKM"
+              },
+              {
+                "display_url": "t.me/xiaoniu616",
+                "end": 59,
+                "expanded_url": "https://t.me/xiaoniu616",
+                "start": 36,
+                "url": "https://t.co/TU11hhS4xP"
+              },
+              {
+                "display_url": "t.me/xiaoniu8181",
+                "end": 89,
+                "expanded_url": "https://t.me/xiaoniu8181",
+                "start": 66,
+                "url": "https://t.co/pMSN66D3Dd"
+              },
+              {
+                "display_url": "t.me/niuxiong",
+                "end": 126,
+                "expanded_url": "https://t.me/niuxiong",
+                "start": 103,
+                "url": "https://t.co/oD1wI5RXXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/1BEusP?i…",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/share/1BEusP?inviteCode=x9Warg",
+                "start": 0,
+                "url": "https://t.co/vzQKEX2NX5"
+              }
+            ]
+          }
+        },
+        "id": "1240545827333914624",
+        "location": "BG 钱包 最丝滑链上体验 meme  合约 美股 理财",
+        "name": "小牛",
+        "pinned_tweet_id": "1991399214539219264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869381488939008/BHPIOtLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148292,
+          "following_count": 828,
+          "like_count": 4030,
+          "listed_count": 1386,
+          "media_count": 12358,
+          "tweet_count": 28069
+        },
+        "url": "https://t.co/vzQKEX2NX5",
+        "username": "Xiaoniu6161",
+        "verified": true
+      }
+    ]
+  }
+}

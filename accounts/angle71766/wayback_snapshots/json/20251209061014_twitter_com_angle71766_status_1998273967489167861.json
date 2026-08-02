@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1998032823467557007",
+    "created_at": "2025-12-09T06:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998273967489167861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1706173102256709633",
+          "start": 0,
+          "username": "kui0420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998273967489167861",
+    "in_reply_to_user_id": "1706173102256709633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998123443888501115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kui0420_ 我靠，怎么没人给我钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1998032823467557007",
+        "created_at": "2025-12-09T06:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998273967489167861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1706173102256709633",
+              "start": 0,
+              "username": "kui0420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998273967489167861",
+        "in_reply_to_user_id": "1706173102256709633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998123443888501115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kui0420_ 我靠，怎么没人给我钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706173102256709633",
+        "conversation_id": "1998032823467557007",
+        "created_at": "2025-12-08T20:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998123443888501115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998123443888501115",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998032823467557007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 我朋友第一次的时候直接睡过去了，我很害怕她醒不来，其他人都嘻嘻哈哈的他们都不是第一次了，我不敢那时候我就16 7吧，我就在旁边给他们拿吃的喝的，还给了我210块零钱，我也不知道他们是上头给的还是自愿给的反正我收下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 50,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 102
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T05:05:55.000Z",
+        "description": "慕强拜金\n被我视奸会觉得爽吗",
+        "id": "1706173102256709633",
+        "name": "窥",
+        "pinned_tweet_id": "1983022847196074336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865632675794763776/l26MhiJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 45,
+          "like_count": 1588,
+          "listed_count": 18,
+          "media_count": 245,
+          "tweet_count": 1443
+        },
+        "username": "kui0420_",
+        "verified": false
+      }
+    ]
+  }
+}

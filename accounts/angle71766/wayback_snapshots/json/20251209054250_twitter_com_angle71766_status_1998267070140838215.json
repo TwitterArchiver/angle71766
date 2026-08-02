@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997862891379368369",
+    "created_at": "2025-12-09T05:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998267070140838215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755532267160756224",
+          "start": 0,
+          "username": "YuWntdtkWivb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998267070140838215",
+    "in_reply_to_user_id": "1755532267160756224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998157258941710789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuWntdtkWivb 没有纸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-09T05:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998267070140838215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755532267160756224",
+              "start": 0,
+              "username": "YuWntdtkWivb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998267070140838215",
+        "in_reply_to_user_id": "1755532267160756224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998157258941710789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuWntdtkWivb 没有纸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755532267160756224",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T22:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T23:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998157258941710789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998157258941710789",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997862891379368369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 为什么不直接卷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 50,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T10:01:30.000Z",
+        "description": "戒烟中",
+        "id": "1755532267160756224",
+        "location": "Monica&Bregna",
+        "name": "yisnsujsowksheu",
+        "pinned_tweet_id": "1982569700979855495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985564865516179456/S7ryek4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 79,
+          "like_count": 4651,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 2530
+        },
+        "username": "YuWntdtkWivb",
+        "verified": false
+      }
+    ]
+  }
+}

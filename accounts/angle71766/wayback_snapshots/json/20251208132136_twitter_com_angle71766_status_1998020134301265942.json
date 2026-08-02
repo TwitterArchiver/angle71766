@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997862891379368369",
+    "created_at": "2025-12-08T13:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998020134301265942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742074460247912448",
+          "start": 0,
+          "username": "2fast_sam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998020134301265942",
+    "in_reply_to_user_id": "1742074460247912448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998016084369392124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2fast_sam 以前抽过朋友给卷的一个黄色的烟纸很好抽，叫什么忘记了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T13:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998020134301265942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742074460247912448",
+              "start": 0,
+              "username": "2fast_sam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998020134301265942",
+        "in_reply_to_user_id": "1742074460247912448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998016084369392124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2fast_sam 以前抽过朋友给卷的一个黄色的烟纸很好抽，叫什么忘记了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742074460247912448",
+        "conversation_id": "1997862891379368369",
+        "created_at": "2025-12-08T13:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998016084369392124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998016084369392124",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997862891379368369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 好浪费🥲 用慢燃纸roll啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 47,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 93
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T06:45:09.000Z",
+        "description": "无妨",
+        "id": "1742074460247912448",
+        "name": "roanapura_0117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742074648437882880/me2eO12w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 887,
+          "like_count": 2572,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1498
+        },
+        "username": "2fast_sam",
+        "verified": false
+      }
+    ]
+  }
+}

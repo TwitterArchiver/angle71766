@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2051010975046996470",
+    "created_at": "2026-05-03T18:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051010975046996470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/420bbnnkk/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/420bbnnkk/status/2050624894233395681",
+          "start": 17,
+          "url": "https://t.co/nFZcDI7ZXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051010975046996470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050624894233395681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种机器人真的好烦，去s啊啊啊啊 https://t.co/nFZcDI7ZXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_2050624592096768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVIM6ubsAAtoPb.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1294,
+        "media_key": "3_2050624880065073153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVIdrfbUAEA4DN.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2051010975046996470",
+        "created_at": "2026-05-03T18:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051010975046996470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/420bbnnkk/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/420bbnnkk/status/2050624894233395681",
+              "start": 17,
+              "url": "https://t.co/nFZcDI7ZXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051010975046996470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050624894233395681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种机器人真的好烦，去s啊啊啊啊 https://t.co/nFZcDI7ZXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050624592096768000",
+            "3_2050624880065073153"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2050624894233395681",
+        "created_at": "2026-05-02T17:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050624894233395681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Op1o189Bb",
+              "end": 168,
+              "expanded_url": "https://x.com/420bbnnkk/status/2050624894233395681/photo/1",
+              "media_key": "3_2050624592096768000",
+              "start": 145,
+              "url": "https://t.co/0Op1o189Bb"
+            },
+            {
+              "display_url": "pic.x.com/0Op1o189Bb",
+              "end": 168,
+              "expanded_url": "https://x.com/420bbnnkk/status/2050624894233395681/photo/1",
+              "media_key": "3_2050624880065073153",
+              "start": 145,
+              "url": "https://t.co/0Op1o189Bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050624894233395681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "此类被诈骗分子批量注册-养号-操控的模仿账号正在严重影响我们x用户的日常正常使用\n1，此类诈骗分子手段包括并不限于：盗取热门博主原创图片，视频，诈骗粉丝，骗取门槛费，\n2，如果你发布了一条流量不错的热门贴文，就一定会受到此类账号入侵评论区蹭流量\n🚨🚨局长呼吁大家，见到此类账号烦请大家举报 https://t.co/0Op1o189Bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 149,
+          "like_count": 234,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 385
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 38,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 106
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

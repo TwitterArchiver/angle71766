@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995828238267154432"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995655347344998613",
+    "created_at": "2025-12-02T12:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995828272438149351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        },
+        {
+          "end": 17,
+          "id": "1979569036045549569",
+          "start": 9,
+          "username": "haionxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6PQlnWMWQz",
+          "end": 50,
+          "expanded_url": "https://x.com/angle71766/status/1995828272438149351/photo/1",
+          "media_key": "3_1995828238267154432",
+          "start": 27,
+          "url": "https://t.co/6PQlnWMWQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995828272438149351",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995679255397867741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir @haionxy 爱你老麻，明天见 https://t.co/6PQlnWMWQz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3225,
+        "media_key": "3_1995828238267154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KbNVabgAAsMYB.jpg",
+        "width": 2419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995828238267154432"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995655347344998613",
+        "created_at": "2025-12-02T12:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995828272438149351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            },
+            {
+              "end": 17,
+              "id": "1979569036045549569",
+              "start": 9,
+              "username": "haionxy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PQlnWMWQz",
+              "end": 50,
+              "expanded_url": "https://x.com/angle71766/status/1995828272438149351/photo/1",
+              "media_key": "3_1995828238267154432",
+              "start": 27,
+              "url": "https://t.co/6PQlnWMWQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995828272438149351",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995679255397867741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir @haionxy 爱你老麻，明天见 https://t.co/6PQlnWMWQz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "1995655347344998613",
+        "created_at": "2025-12-02T02:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995679255397867741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979569036045549569",
+              "start": 0,
+              "username": "haionxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995679255397867741",
+        "in_reply_to_user_id": "1979569036045549569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995668163649044541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haionxy 爱你老普 明天见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 31,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 339,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 559
+        },
+        "username": "daozhir",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:24:43.000Z",
+        "description": "墨西哥直出代中转  精神分裂不会维持关系请勿靠近",
+        "id": "1979569036045549569",
+        "location": "绘画世界",
+        "name": "罪恶夜行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995548764766105600/DH7Z5J1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 59,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 264
+        },
+        "username": "haionxy",
+        "verified": false
+      }
+    ]
+  }
+}

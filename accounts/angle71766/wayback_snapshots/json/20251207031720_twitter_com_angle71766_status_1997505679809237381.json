@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1997347461455917285",
+    "created_at": "2025-12-07T03:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T04:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997505679809237381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997505679809237381",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997347461455917285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu k2怎麼樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1997347461455917285",
+        "created_at": "2025-12-07T03:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T04:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997505679809237381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997505679809237381",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997347461455917285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu k2怎麼樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777176214652035072",
+        "conversation_id": "1997347461455917285",
+        "created_at": "2025-12-06T16:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997347461455917285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997347461455917285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 635,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在金三角 会有人想和我一起玩吗(╥﹏╥)这边还有活着的人类吗可以和我一起去赌场或者club静静呆着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 8,
+          "like_count": 85,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 224
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

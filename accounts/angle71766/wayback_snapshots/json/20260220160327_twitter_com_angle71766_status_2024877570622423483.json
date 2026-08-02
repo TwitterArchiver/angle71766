@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2024820453798506667",
+    "created_at": "2026-02-20T16:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024877570622423483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1723111253911203840",
+          "start": 0,
+          "username": "ME4444EM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024877570622423483",
+    "in_reply_to_user_id": "1723111253911203840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024829321647636879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ME4444EM 被人举报都封了四次了，而且只会删评论，和用自己的小号和假装和自己互动，实际有0个人想买它的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2024820453798506667",
+        "created_at": "2026-02-20T16:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024877570622423483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1723111253911203840",
+              "start": 0,
+              "username": "ME4444EM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024877570622423483",
+        "in_reply_to_user_id": "1723111253911203840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024829321647636879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ME4444EM 被人举报都封了四次了，而且只会删评论，和用自己的小号和假装和自己互动，实际有0个人想买它的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723111253911203840",
+        "conversation_id": "2024820453798506667",
+        "created_at": "2026-02-20T12:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024829321647636879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024829321647636879",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024820453798506667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 我去，不是吧，我花了1300😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 140,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 273
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T22:52:05.000Z",
+        "description": "欢迎大家来找我互fo呀～_(:з」∠)_",
+        "id": "1723111253911203840",
+        "name": "ME",
+        "pinned_tweet_id": "2024491399283179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022924717192359936/E_biCWBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "username": "ME4444EM",
+        "verified": false
+      }
+    ]
+  }
+}

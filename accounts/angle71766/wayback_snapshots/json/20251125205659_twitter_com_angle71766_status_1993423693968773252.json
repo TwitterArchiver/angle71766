@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1992953771216060847",
+    "created_at": "2025-11-25T20:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T21:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993423693968773252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1161138897566388224",
+          "start": 0,
+          "username": "Oatzo1"
+        },
+        {
+          "end": 16,
+          "id": "1557712211128160256",
+          "start": 8,
+          "username": "yukanke"
+        },
+        {
+          "end": 31,
+          "id": "1607388730914140160",
+          "start": 17,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993423693968773252",
+    "in_reply_to_user_id": "1161138897566388224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993353292714590651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oatzo1 @yukanke @popcat1234566 tg  x ，網路上都能找到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1992953771216060847",
+        "created_at": "2025-11-25T20:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T21:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993423693968773252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1161138897566388224",
+              "start": 0,
+              "username": "Oatzo1"
+            },
+            {
+              "end": 16,
+              "id": "1557712211128160256",
+              "start": 8,
+              "username": "yukanke"
+            },
+            {
+              "end": 31,
+              "id": "1607388730914140160",
+              "start": 17,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993423693968773252",
+        "in_reply_to_user_id": "1161138897566388224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993353292714590651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oatzo1 @yukanke @popcat1234566 tg  x ，網路上都能找到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161138897566388224",
+        "conversation_id": "1992953771216060847",
+        "created_at": "2025-11-25T16:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993353292714590651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            },
+            {
+              "end": 20,
+              "id": "1557712211128160256",
+              "start": 12,
+              "username": "yukanke"
+            },
+            {
+              "end": 35,
+              "id": "1607388730914140160",
+              "start": 21,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993353292714590651",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993009279377588425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 @yukanke @popcat1234566 国内根本买不到啊主要😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T04:54:20.000Z",
+        "description": "本人男！xp是贫乳细腰😋",
+        "id": "1161138897566388224",
+        "name": "Oatzo",
+        "pinned_tweet_id": "1975975549521768592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731957188737024000/QNzhzB_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 136,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 291
+        },
+        "username": "Oatzo1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T12:55:15.000Z",
+        "description": "焦郁/07/intp/漫游中/活在连线世界/臭画画的/odzc过去式/女的/好麻烦不打了 互fo欢迎",
+        "id": "1557712211128160256",
+        "location": "連線世界",
+        "name": "无意义实体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814922193916366848/jtS-8uBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 54,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "username": "yukanke",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n承接suki遗愿 我可能不卖致幻剂了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984553337262653442/phttdV1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 656,
+          "like_count": 36354,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

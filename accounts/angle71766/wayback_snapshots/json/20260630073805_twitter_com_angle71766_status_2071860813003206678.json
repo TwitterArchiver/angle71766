@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2071549542131212695",
+    "created_at": "2026-06-30T07:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071860813003206678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071860813003206678",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071549542131212695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 好便宜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071549529556647936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-fUlPaAAAaLk4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071549529619611648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-fUleawAAdzFh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071549529594458113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-fUlYa8AERgGm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2071549542131212695",
+        "created_at": "2026-06-30T07:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071860813003206678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071860813003206678",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071549542131212695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 好便宜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071549529556647936",
+            "3_2071549529619611648",
+            "3_2071549529594458113"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071549542131212695",
+        "created_at": "2026-06-29T11:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071549542131212695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5eakxs40K",
+              "end": 63,
+              "expanded_url": "https://x.com/Jy666992/status/2071549542131212695/photo/1",
+              "media_key": "3_2071549529556647936",
+              "start": 40,
+              "url": "https://t.co/C5eakxs40K"
+            },
+            {
+              "display_url": "pic.x.com/C5eakxs40K",
+              "end": 63,
+              "expanded_url": "https://x.com/Jy666992/status/2071549542131212695/photo/1",
+              "media_key": "3_2071549529619611648",
+              "start": 40,
+              "url": "https://t.co/C5eakxs40K"
+            },
+            {
+              "display_url": "pic.x.com/C5eakxs40K",
+              "end": 63,
+              "expanded_url": "https://x.com/Jy666992/status/2071549542131212695/photo/1",
+              "media_key": "3_2071549529594458113",
+              "start": 40,
+              "url": "https://t.co/C5eakxs40K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071549542131212695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1733,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "价格太美丽了 在我家门口800m\n我直接愤怒消费\n两个人卷大麻忙不过来了哈哈哈 https://t.co/C5eakxs40K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 155,
+          "like_count": 325,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 258,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

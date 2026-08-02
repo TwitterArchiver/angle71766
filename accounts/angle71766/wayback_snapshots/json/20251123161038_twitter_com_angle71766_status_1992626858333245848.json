@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1992287132329869373",
+    "created_at": "2025-11-23T16:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992626858333245848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890848153525706752",
+          "start": 0,
+          "username": "MoxiYolo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992626858333245848",
+    "in_reply_to_user_id": "1890848153525706752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992287132329869373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoxiYolo 那是傷口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1992287132329869373",
+        "created_at": "2025-11-23T16:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992626858333245848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890848153525706752",
+              "start": 0,
+              "username": "MoxiYolo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992626858333245848",
+        "in_reply_to_user_id": "1890848153525706752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992287132329869373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoxiYolo 那是傷口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890848153525706752",
+        "conversation_id": "1992287132329869373",
+        "created_at": "2025-11-22T17:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992287132329869373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992287132329869373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 247010,
+          "like_count": 1920,
+          "quote_count": 17,
+          "reply_count": 67,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "你不要自残了，大晚上摸到缝扣半天好多水听你叫还认为很敏感，开灯一看是手腕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "网名消防，并非消防行业及消防员//男🌈17岁//坐标湖北十堰//此推只发布抽象-日常-游戏-擦边//止步于推🚫你要实在想发请给我打码谢谢//厌蠢",
+        "id": "1890848153525706752",
+        "location": "湖北 十堰",
+        "name": "消防🏖️",
+        "pinned_tweet_id": "1984567496951894309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226636512907268/SFL_CbH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 506,
+          "like_count": 1020,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1212
+        },
+        "username": "MoxiYolo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "2021500600014512474",
+    "created_at": "2026-02-13T03:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022146199240028419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1963472637310767106",
+          "start": 0,
+          "username": "shotaro070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022146199240028419",
+    "in_reply_to_user_id": "1963472637310767106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021649228439990389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shotaro070 在这个歧视女性的男权社会，普通女性根本就没有生存空间，我只能到处打零工，没有老板愿意雇长期工，也没有任何社会保障，想找一个长期稳定的工作很难，年龄超过45岁根本就不好找工作了，别人一听你是个女的 就不让你干 我妈妈就是这样失业的，他们歧视女性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2021500600014512474",
+        "created_at": "2026-02-13T03:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022146199240028419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1963472637310767106",
+              "start": 0,
+              "username": "shotaro070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022146199240028419",
+        "in_reply_to_user_id": "1963472637310767106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021649228439990389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shotaro070 在这个歧视女性的男权社会，普通女性根本就没有生存空间，我只能到处打零工，没有老板愿意雇长期工，也没有任何社会保障，想找一个长期稳定的工作很难，年龄超过45岁根本就不好找工作了，别人一听你是个女的 就不让你干 我妈妈就是这样失业的，他们歧视女性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963472637310767106",
+        "conversation_id": "2021500600014512474",
+        "created_at": "2026-02-11T18:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021649228439990389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021649228439990389",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40282,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021500600014512474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 评论区让我意识到有多可怕 明明可以上班养活自己玩什么做这些下海的事情呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 127,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 263
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T05:22:36.000Z",
+        "description": "",
+        "id": "1963472637310767106",
+        "name": "J",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999741466420346885/193Yf7ND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "username": "shotaro070",
+        "verified": false
+      }
+    ]
+  }
+}

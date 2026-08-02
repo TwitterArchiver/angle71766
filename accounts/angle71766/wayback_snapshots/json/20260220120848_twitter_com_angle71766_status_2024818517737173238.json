@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2024802407889383800",
+    "created_at": "2026-02-20T12:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024818517737173238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        },
+        {
+          "end": 28,
+          "id": "2017052934388011009",
+          "start": 16,
+          "username": "fragroooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024818517737173238",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024815868262465570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox @fragroooooo 这个乙女是骗子，给钱不发货，不要买啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2024802407889383800",
+        "created_at": "2026-02-20T12:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024818517737173238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            },
+            {
+              "end": 28,
+              "id": "2017052934388011009",
+              "start": 16,
+              "username": "fragroooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024818517737173238",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024815868262465570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox @fragroooooo 这个乙女是骗子，给钱不发货，不要买啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2024802407889383800",
+        "created_at": "2026-02-20T11:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024815868262465570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017052934388011009",
+              "start": 0,
+              "username": "fragroooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024815868262465570",
+        "in_reply_to_user_id": "2017052934388011009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024802407889383800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fragroooooo 包出苗么👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 140,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 270
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "重生账号8000fo寻回中…也欢迎新朋友关注（原帐号名深蓝）\n\n/一个23岁磕药磕雌の阴暗大叔。\n\n/考研未上岸，打工不划算，身子让你干，能否喂我饭？\n\n/网络身份: 寄生虫、二次元现充、圣亚厨子、锁娘、M、劣质COS、吸毒者、转发机器人、Xp克苏鲁、可能是猫。\n\n/偶尔冒头的时候不要抓我，等哪天整点涩的再发给你们看。",
+        "id": "1921862257874702337",
+        "location": "法外之地",
+        "name": "華宮 正師",
+        "pinned_tweet_id": "1933621953933553865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721026270728192/3UlusWeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 58,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 260
+        },
+        "username": "Theprophetsfox",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "pinned_tweet_id": "2022431058885832707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022170686165524481/835coBwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 404,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 225
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

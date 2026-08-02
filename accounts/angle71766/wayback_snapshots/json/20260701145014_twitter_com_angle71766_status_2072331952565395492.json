@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2072163099214557341",
+    "created_at": "2026-07-01T14:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072331952565395492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072331952565395492",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072163099214557341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 想到晚安以后是网络敏感屏蔽词汇就好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072163015022227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHNSIsaMAASUWV.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2072163099214557341",
+        "created_at": "2026-07-01T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072331952565395492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072331952565395492",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072163099214557341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 想到晚安以后是网络敏感屏蔽词汇就好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072163015022227456"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2072163099214557341",
+        "created_at": "2026-07-01T03:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072163099214557341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5eRnZcRXV",
+              "end": 32,
+              "expanded_url": "https://x.com/UnkMtX/status/2072163099214557341/photo/1",
+              "media_key": "3_2072163015022227456",
+              "start": 9,
+              "url": "https://t.co/C5eRnZcRXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072163099214557341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6876,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "other",
+        "text": "怎么都上新闻了🥲 https://t.co/C5eRnZcRXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 155,
+          "like_count": 326,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|159cm52kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071513573331997022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1130,
+          "like_count": 3099,
+          "listed_count": 15,
+          "media_count": 117,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

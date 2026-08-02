@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2016950416119042112",
+    "created_at": "2026-01-29T19:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T20:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016950416119042112"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016950416119042112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "登nm一天都登不上x，希望我以后能生活在一个不用vpn的国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2016950416119042112",
+        "created_at": "2026-01-29T19:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T20:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016950416119042112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016950416119042112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "登nm一天都登不上x，希望我以后能生活在一个不用vpn的国家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 122,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 245
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

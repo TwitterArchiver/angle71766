@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2039439321217024367",
+    "created_at": "2026-04-01T20:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039439321217024367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o3olyy/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/o3olyy/status/2039398139648700677",
+          "start": 11,
+          "url": "https://t.co/NcGeLXFEsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039439321217024367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039398139648700677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问认识的人一人要一颗 https://t.co/NcGeLXFEsF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2039439321217024367",
+        "created_at": "2026-04-01T20:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039439321217024367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o3olyy/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/o3olyy/status/2039398139648700677",
+              "start": 11,
+              "url": "https://t.co/NcGeLXFEsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039439321217024367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039398139648700677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问认识的人一人要一颗 https://t.co/NcGeLXFEsF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468141721900896259",
+        "conversation_id": "2039398139648700677",
+        "created_at": "2026-04-01T17:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039398139648700677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039398139648700677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1883,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们od的钱到底哪来的 我已经买不起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 146,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 327
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T08:54:12.000Z",
+        "description": "=真理｜18 ↑｜od 自伤🩹餐券女｜双向｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink\n同类宝宝互fo私一下我♡\n我穷疯了我很惨 求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/Xp1scCAHXW"
+              }
+            ]
+          }
+        },
+        "id": "1468141721900896259",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理",
+        "pinned_tweet_id": "2038328082357223865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028928773631188992/y2_EJ7g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 150,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/Xp1scCAHXW",
+        "username": "o3olyy",
+        "verified": false
+      }
+    ]
+  }
+}

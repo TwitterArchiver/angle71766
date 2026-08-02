@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2054604161501803006",
+    "created_at": "2026-05-13T16:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054604161501803006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lomyral114514/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Lomyral114514/status/2054228935320469990",
+          "start": 10,
+          "url": "https://t.co/WOWmWDGBBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054604161501803006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054228935320469990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求出一期用药安排表 https://t.co/WOWmWDGBBG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2054604161501803006",
+        "created_at": "2026-05-13T16:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054604161501803006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral114514/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Lomyral114514/status/2054228935320469990",
+              "start": 10,
+              "url": "https://t.co/WOWmWDGBBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054604161501803006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054228935320469990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求出一期用药安排表 https://t.co/WOWmWDGBBG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054228935320469990",
+        "created_at": "2026-05-12T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054228935320469990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054228935320469990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3090,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "忠告是请每个阿片使用者守住cd，！\n阿片实在是太美好了，但是戒断也实在是太坐牢了。一周两次已经是底线中的底线了，建议1-2周一次。当然1-2个月一次是最安全的，耐受也几乎不会增长，除非单次上大剂量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 150,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 392
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 435,
+          "like_count": 2407,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1999726948575064491",
+    "created_at": "2025-12-13T18:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T19:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999904915234435410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999904915234435410",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999726948575064491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ 看到了我会开启恶人模式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1999726948575064491",
+        "created_at": "2025-12-13T18:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999904915234435410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999904915234435410",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999726948575064491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 看到了我会开启恶人模式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "1999726948575064491",
+        "created_at": "2025-12-13T06:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999726948575064491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999726948575064491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有钱人可以觉得自己惨 也可以发朋友圈卖惨 但是最好别被我看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 73,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 125
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki",
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 424,
+          "like_count": 17277,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 9274
+        },
+        "username": "saaaki1_",
+        "verified": false
+      }
+    ]
+  }
+}

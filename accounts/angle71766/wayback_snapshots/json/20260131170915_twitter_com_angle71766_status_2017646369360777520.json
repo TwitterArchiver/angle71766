@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2017309506850709578",
+    "created_at": "2026-01-31T17:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017646369360777520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933200730443415552",
+          "start": 0,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017646369360777520",
+    "in_reply_to_user_id": "1933200730443415552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017309506850709578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothingnes74306 我也是 好多人都找不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2017309506850709578",
+        "created_at": "2026-01-31T17:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017646369360777520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933200730443415552",
+              "start": 0,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017646369360777520",
+        "in_reply_to_user_id": "1933200730443415552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017309506850709578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothingnes74306 我也是 好多人都找不到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2017309506850709578",
+        "created_at": "2026-01-30T18:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017309506850709578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017309506850709578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又有两个推友号没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 123,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 248
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Love me until I love myself",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2002704439376040060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 111,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 245
+        },
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

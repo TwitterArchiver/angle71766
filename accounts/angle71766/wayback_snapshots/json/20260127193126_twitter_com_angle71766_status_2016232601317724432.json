@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2015808326555337165",
+    "created_at": "2026-01-27T19:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T20:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016232601317724432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "480346431",
+          "start": 0,
+          "username": "AndrewEDavis5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016232601317724432",
+    "in_reply_to_user_id": "480346431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015808326555337165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrewEDavis5 水烟筒，joint我抽一半，风抽一半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2015808326555337165",
+        "created_at": "2026-01-27T19:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016232601317724432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "480346431",
+              "start": 0,
+              "username": "AndrewEDavis5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016232601317724432",
+        "in_reply_to_user_id": "480346431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015808326555337165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrewEDavis5 水烟筒，joint我抽一半，风抽一半"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "480346431",
+        "conversation_id": "2015808326555337165",
+        "created_at": "2026-01-26T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015808326555337165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015808326555337165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大麻怎么抽最省？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 120,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 242
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-01T11:49:39.000Z",
+        "description": "来自沈阳♈️infp/08年的Oder（o了4年）喜欢交朋友交流经验 聊天打趣/抑郁焦虑目前吃药控制的还好/职业主播 想做自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "designfacebookcover.com",
+                "end": 23,
+                "expanded_url": "http://designfacebookcover.com/",
+                "start": 0,
+                "url": "https://t.co/R7KeUuiSCB"
+              }
+            ]
+          }
+        },
+        "id": "480346431",
+        "name": "我不是冰棍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987069679073185792/Pg77oe0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/R7KeUuiSCB",
+        "username": "AndrewEDavis5",
+        "verified": false
+      }
+    ]
+  }
+}

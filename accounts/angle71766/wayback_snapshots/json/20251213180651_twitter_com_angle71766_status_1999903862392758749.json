@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1999860429317976268",
+    "created_at": "2025-12-13T18:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T19:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999903862392758749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999903862392758749",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999860429317976268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 我恨所有任，我喜欢许愿的是时候用他们的寿命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1999860196747919360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DuQNOaQAAL6PA.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1999860429317976268",
+        "created_at": "2025-12-13T18:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999903862392758749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999903862392758749",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999860429317976268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 我恨所有任，我喜欢许愿的是时候用他们的寿命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999860196747919360"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1999860429317976268",
+        "created_at": "2025-12-13T15:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:13:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999860204205436974",
+          "1999860429317976268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3EBEK09ig",
+              "end": 160,
+              "expanded_url": "https://x.com/akui1121/status/1999860429317976268/photo/1",
+              "media_key": "3_1999860196747919360",
+              "start": 137,
+              "url": "https://t.co/Q3EBEK09ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999860429317976268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17536,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想起来那个高中生前任，一直在念书从来没有接触过滥用这些，会安安静静的给我掰药片，告诉我少吃一点注意安全；然后抱着我看电影等我清醒过来，然后说你终于醒了，陪我聊聊天吧，我等你好久。\n分手后我们两个成了偶尔聊聊天的朋友，有一天突然和我说，你知道吗，xx，我最后悔的就是认识你。 https://t.co/Q3EBEK09ig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 62,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 123
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！你知道乌托邦吗，是存在的🥰 🚪80不接推广，致歉，纯享推 @jiangshi1121  咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "1965chich"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1998982042378449019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997506009804484608/nMyIZz-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28658,
+          "following_count": 1231,
+          "like_count": 19604,
+          "listed_count": 74,
+          "media_count": 1056,
+          "tweet_count": 13409
+        },
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

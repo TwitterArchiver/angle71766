@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012906112488456192"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "conversation_id": "2012906152481419644",
+    "created_at": "2026-01-18T15:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012906152481419644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7MRsEo6he",
+          "end": 32,
+          "expanded_url": "https://x.com/angle71766/status/2012906152481419644/photo/1",
+          "media_key": "3_2012906112488456192",
+          "start": 9,
+          "url": "https://t.co/z7MRsEo6he"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012906152481419644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一滴尿你害人不浅 https://t.co/z7MRsEo6he"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012906112488456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9HcckWQAARKmb.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012906112488456192"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2012906152481419644",
+        "created_at": "2026-01-18T15:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012906152481419644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7MRsEo6he",
+              "end": 32,
+              "expanded_url": "https://x.com/angle71766/status/2012906152481419644/photo/1",
+              "media_key": "3_2012906112488456192",
+              "start": 9,
+              "url": "https://t.co/z7MRsEo6he"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012906152481419644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一滴尿你害人不浅 https://t.co/z7MRsEo6he"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 100,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 215
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

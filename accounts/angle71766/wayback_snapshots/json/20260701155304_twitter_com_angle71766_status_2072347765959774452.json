@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2071939124278530222",
+    "created_at": "2026-07-01T15:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072347765959774452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800529213675741184",
+          "start": 0,
+          "username": "waichen187098"
+        },
+        {
+          "end": 25,
+          "id": "1256757256214818818",
+          "start": 15,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072347765959774452",
+    "in_reply_to_user_id": "1800529213675741184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072004486315581501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waichen187098 @GuimuRena 之前抽烟抽多了倒是得过肺膜炎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2071939124278530222",
+        "created_at": "2026-07-01T15:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072347765959774452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800529213675741184",
+              "start": 0,
+              "username": "waichen187098"
+            },
+            {
+              "end": 25,
+              "id": "1256757256214818818",
+              "start": 15,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072347765959774452",
+        "in_reply_to_user_id": "1800529213675741184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072004486315581501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waichen187098 @GuimuRena 之前抽烟抽多了倒是得过肺膜炎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800529213675741184",
+        "conversation_id": "2071939124278530222",
+        "created_at": "2026-06-30T17:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072004486315581501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072004486315581501",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071939124278530222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena 怎么得肺炎（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 156,
+          "like_count": 327,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-11T14:03:28.000Z",
+        "description": "「诗人」前世@chenwai29719，07INFPaudhd/💊🩸/ftx非二元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "chenwai29719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwai555",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwai555",
+                "start": 0,
+                "url": "https://t.co/PFdP4tz1Eu"
+              }
+            ]
+          }
+        },
+        "id": "1800529213675741184",
+        "name": "尘外（秽土转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033628124311916546/g9IIycrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 74,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/PFdP4tz1Eu",
+        "username": "waichen187098",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "氿木レナです💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "OD"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "リスカ"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "病み垢"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZHJN"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 404,
+          "like_count": 894,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/EZHEMbZHJN",
+        "username": "GuimuRena",
+        "verified": false
+      }
+    ]
+  }
+}

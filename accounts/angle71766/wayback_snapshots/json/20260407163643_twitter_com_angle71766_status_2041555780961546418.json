@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2041555780961546418",
+    "created_at": "2026-04-07T16:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041555780961546418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bei_haishui/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/bei_haishui/status/2041467654704378089",
+          "start": 23,
+          "url": "https://t.co/385Tv7SDHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041555780961546418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041467654704378089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把肆无忌惮说话当作道德底线的人道德已经很高了 https://t.co/385Tv7SDHY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2041555780961546418",
+        "created_at": "2026-04-07T16:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041555780961546418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bei_haishui/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/bei_haishui/status/2041467654704378089",
+              "start": 23,
+              "url": "https://t.co/385Tv7SDHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041555780961546418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041467654704378089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把肆无忌惮说话当作道德底线的人道德已经很高了 https://t.co/385Tv7SDHY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2041467654704378089",
+        "created_at": "2026-04-07T10:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041467654704378089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041467654704378089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 98631,
+          "like_count": 1707,
+          "quote_count": 44,
+          "reply_count": 102,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "很恐怖 玩推特玩久了之后感觉自己的道德底线在不断降低 最直观的表现就是能无所顾忌的说出很多能吓周围人一跳的话但是自己却觉得无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 147,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 349
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n私信常开允许骚扰\n碎碎念和一些喜欢的片@liiiiizhibei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "liiiiizhibei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2037832752947757184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9778,
+          "following_count": 406,
+          "like_count": 42207,
+          "listed_count": 12,
+          "media_count": 86,
+          "tweet_count": 5597
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

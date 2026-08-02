@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1991777821384122537",
+    "created_at": "2025-11-22T13:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992226203814781355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992226203814781355",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991777821384122537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 我喜欢在这种地方藏大麻😭千万不要拿走我的麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1991777821384122537",
+        "created_at": "2025-11-22T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992226203814781355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992226203814781355",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991777821384122537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 我喜欢在这种地方藏大麻😭千万不要拿走我的麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "1991777821384122537",
+        "created_at": "2025-11-21T07:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991777821384122537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991777821384122537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现郑州有很多废弃老旧的建筑商场可以玩城市探险，拍照能给自己拍的很忧郁，中午有光线的时候就更好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "16//叫我小雨就好//生理男//52🚪互关不需要//要互关或者加好友请私信然后我看成分//宅//缺爱//抑郁//od//cos//碎碎念//自伤//电波//好闺蜜@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏小雨",
+        "pinned_tweet_id": "1974121185056338267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991578115949359106/84qVlhCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 477,
+          "like_count": 4879,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2586
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

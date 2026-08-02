@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992171843978158080",
+        "3_1992171843973976064"
+      ],
+      "media_source_tweet_id": [
+        "1992171853734162561",
+        "1992171853734162561"
+      ]
+    },
+    "author_id": "1990814524556128256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1992224393792213044",
+    "created_at": "2025-11-22T13:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992224393792213044"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "weed"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RajrbSqYbc",
+          "end": 55,
+          "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+          "media_key": "3_1992171843978158080",
+          "start": 32,
+          "url": "https://t.co/RajrbSqYbc"
+        },
+        {
+          "display_url": "pic.x.com/RajrbSqYbc",
+          "end": 55,
+          "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+          "media_key": "3_1992171843973976064",
+          "start": 32,
+          "url": "https://t.co/RajrbSqYbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992224393792213044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992171853734162561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 美麗的girl #weed https://t.co/RajrbSqYbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992171843978158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WdvLPaYAAPY9s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992171843973976064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WdvLOakAARoE0.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992171843978158080",
+            "3_1992171843973976064"
+          ],
+          "media_source_tweet_id": [
+            "1992171853734162561",
+            "1992171853734162561"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992224393792213044",
+        "created_at": "2025-11-22T13:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992224393792213044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "weed"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RajrbSqYbc",
+              "end": 55,
+              "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+              "media_key": "3_1992171843978158080",
+              "start": 32,
+              "url": "https://t.co/RajrbSqYbc"
+            },
+            {
+              "display_url": "pic.x.com/RajrbSqYbc",
+              "end": 55,
+              "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+              "media_key": "3_1992171843973976064",
+              "start": 32,
+              "url": "https://t.co/RajrbSqYbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992224393792213044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992171853734162561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 美麗的girl #weed https://t.co/RajrbSqYbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992171843978158080",
+            "3_1992171843973976064"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992171853734162561",
+        "created_at": "2025-11-22T10:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992171853734162561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "weed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RajrbSqYbc",
+              "end": 37,
+              "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+              "media_key": "3_1992171843978158080",
+              "start": 14,
+              "url": "https://t.co/RajrbSqYbc"
+            },
+            {
+              "display_url": "pic.x.com/RajrbSqYbc",
+              "end": 37,
+              "expanded_url": "https://x.com/420420420CTL/status/1992171853734162561/photo/1",
+              "media_key": "3_1992171843973976064",
+              "start": 14,
+              "url": "https://t.co/RajrbSqYbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992171853734162561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美麗的girl #weed https://t.co/RajrbSqYbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信💚可以任何平台擔保",
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1988839890709012826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974827827179802624/vAqBFqmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 367,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 313
+        },
+        "username": "420420420CTL",
+        "verified": false
+      }
+    ]
+  }
+}

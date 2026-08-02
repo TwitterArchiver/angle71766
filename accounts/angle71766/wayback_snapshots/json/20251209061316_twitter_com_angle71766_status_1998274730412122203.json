@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1998032823467557007",
+    "created_at": "2025-12-09T06:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998274730412122203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1394405625128497161",
+          "start": 0,
+          "username": "zhoulegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998274730412122203",
+    "in_reply_to_user_id": "1394405625128497161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998114334229037070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoulegg 哇塞，是加州的的草么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1998032823467557007",
+        "created_at": "2025-12-09T06:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998274730412122203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1394405625128497161",
+              "start": 0,
+              "username": "zhoulegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998274730412122203",
+        "in_reply_to_user_id": "1394405625128497161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998114334229037070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoulegg 哇塞，是加州的的草么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394405625128497161",
+        "conversation_id": "1998032823467557007",
+        "created_at": "2025-12-08T19:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T20:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998114334229037070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998114334229037070",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998032823467557007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 头晕，想笑想哭，手脚麻木融化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 51,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-17T21:33:17.000Z",
+        "description": "🇺🇸，不在湾区！ 170cm，ENFJ，不婚丁克，第六感超灵敏！纯女养老院发起人，学过舞蹈，推特碎碎念，Open relationship。\n私信请礼貌，不礼貌直接B掉，查户口,锁推和口嗨勿扰。小姐姐互关请私信我哟，欢迎互关！\n在🇺🇸最近缺钱，接女生玩具测评，接推广～不线下",
+        "id": "1394405625128497161",
+        "location": "火星",
+        "name": "👙Monica Bellucci❤️",
+        "pinned_tweet_id": "1642842539613999105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939025723798241280/JIqh6PK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13105,
+          "following_count": 387,
+          "like_count": 6035,
+          "listed_count": 25,
+          "media_count": 302,
+          "tweet_count": 5755
+        },
+        "username": "zhoulegg",
+        "verified": false
+      }
+    ]
+  }
+}

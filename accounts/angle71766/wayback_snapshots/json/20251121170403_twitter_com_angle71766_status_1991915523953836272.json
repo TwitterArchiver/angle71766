@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1991870390566551730",
+    "created_at": "2025-11-21T17:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991915523953836272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991915523953836272",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991870390566551730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoko8964 跳開要多喝一杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1991870390566551730",
+        "created_at": "2025-11-21T17:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991915523953836272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991915523953836272",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991870390566551730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoko8964 跳開要多喝一杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1991870390566551730",
+        "created_at": "2025-11-21T14:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991870390566551730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991870390566551730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好痛苦好想跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realeco_771",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realeco_771",
+                "start": 0,
+                "url": "https://t.co/goQGuK3lL5"
+              }
+            ]
+          }
+        },
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1987515288565477666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988947442461720576/_OINna5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8514,
+          "following_count": 295,
+          "like_count": 26271,
+          "listed_count": 9,
+          "media_count": 1525,
+          "tweet_count": 16925
+        },
+        "url": "https://t.co/goQGuK3lL5",
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "1991424203455971603",
+    "created_at": "2025-11-21T18:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991931914538963228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "912343017305944064",
+          "start": 0,
+          "username": "0xadai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991931914538963228",
+    "in_reply_to_user_id": "912343017305944064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991424203455971603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xadai 很棒的vlog 期待更新，投稿下一次使用棒球棍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82933,
+        "height": 1280,
+        "media_key": "13_1991423988246147077",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991423988246147077/img/6vX_jglYrDVpQKIX.jpg",
+        "public_metrics": {
+          "view_count": 2089518
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991423988246147077/vid/avc1/320x568/CyX1x-Hb0NBNYEjF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991423988246147077/vid/avc1/480x852/Au44rbEVItgAOsYg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991423988246147077/vid/avc1/720x1280/Eo_2fVGiIWU0yGjm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991423988246147077/pl/pdUldxKW2_PMnNje.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "1991424203455971603",
+        "created_at": "2025-11-21T18:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991931914538963228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "912343017305944064",
+              "start": 0,
+              "username": "0xadai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991931914538963228",
+        "in_reply_to_user_id": "912343017305944064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991424203455971603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xadai 很棒的vlog 期待更新，投稿下一次使用棒球棍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991423988246147077"
+          ]
+        },
+        "author_id": "912343017305944064",
+        "conversation_id": "1991424203455971603",
+        "created_at": "2025-11-20T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991424203455971603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xORD3c07Tf",
+              "end": 37,
+              "expanded_url": "https://x.com/0xadai/status/1991424203455971603/video/1",
+              "media_key": "13_1991423988246147077",
+              "start": 14,
+              "url": "https://t.co/xORD3c07Tf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991424203455971603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1687,
+          "impression_count": 1872608,
+          "like_count": 9276,
+          "quote_count": 37,
+          "reply_count": 790,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "就你小子打麻将摸我对象手？ https://t.co/xORD3c07Tf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "",
+        "id": "1990814524556128256",
+        "name": "angle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "angle71766",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-25T15:48:20.000Z",
+        "description": "这辆财富列车一定要带上我！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link3.to/00000001",
+                "end": 23,
+                "expanded_url": "https://link3.to/00000001",
+                "start": 0,
+                "url": "https://t.co/QMGXBdgxG1"
+              }
+            ]
+          }
+        },
+        "id": "912343017305944064",
+        "location": "发财镇",
+        "name": "搞钱小呆🔶 BNB",
+        "pinned_tweet_id": "1980290250435129611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909158337155117056/4SpusmEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36028,
+          "following_count": 4634,
+          "like_count": 3489,
+          "listed_count": 119,
+          "media_count": 819,
+          "tweet_count": 6484
+        },
+        "url": "https://t.co/QMGXBdgxG1",
+        "username": "0xadai",
+        "verified": true
+      }
+    ]
+  }
+}
