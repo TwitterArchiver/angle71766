@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T03:06:26",
+  "last_updated": "2026-08-02T03:06:47",
   "html": {
     "https://web.archive.org/web/20251122100842if_/https://twitter.com/angle71766/status/1992173385137393820": {
       "status": "done",
@@ -3943,18 +3943,18 @@
       "referenced_by": [
         "20251217101119_twitter_com_angle71766_status_2001233740735901918.json"
       ],
-      "last_updated": "2026-08-02T02:52:45",
+      "last_updated": "2026-08-02T03:06:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251217101119/https://video.twimg.com/ext_tw_video/2000775913370271745/pu/vid/avc1/1280x720/Bz915tN4sWpCQpPi.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2001226446493380608/vid/avc1/720x1280/N0TWNCgFUTbYVsRZ.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20251219135820_twitter_com_angle71766_status_2002015645970714905.json"
       ],
-      "last_updated": "2026-08-02T02:52:45",
+      "last_updated": "2026-08-02T03:06:47",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251219135820/https://video.twimg.com/amplify_video/2001226446493380608/vid/avc1/720x1280/N0TWNCgFUTbYVsRZ.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2002360716502970369/vid/avc1/720x1280/HQeUnmZVq_oNIaXu.mp4?tag=14": {
       "status": "done",
