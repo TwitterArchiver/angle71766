@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1990814524556128256",
+    "conversation_id": "2095503234844811294",
+    "created_at": "2026-09-03T15:22:56.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095533005486076315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095533005486076315",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095503234844811294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 哦no 没有中文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_2095503225042739200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS5FKpboAAGJul.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095503225034321920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS5FKnbMAAwATp.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1730,
+        "media_key": "3_2095503225072070656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS5FKwbMAAaXA1.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2095503225042681856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS5FKpawAANcaS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2095503234844811294",
+        "created_at": "2026-09-03T15:22:56.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095533005486076315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095533005486076315",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095503234844811294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 哦no 没有中文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095503225042739200",
+            "3_2095503225034321920",
+            "3_2095503225072070656",
+            "3_2095503225042681856"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2095503234844811294",
+        "created_at": "2026-09-03T13:24:38.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095503234844811294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RafXuwupX",
+              "end": 131,
+              "expanded_url": "https://x.com/YangDowond/status/2095503234844811294/photo/1",
+              "media_key": "3_2095503225042739200",
+              "start": 108,
+              "url": "https://t.co/4RafXuwupX"
+            },
+            {
+              "display_url": "pic.x.com/4RafXuwupX",
+              "end": 131,
+              "expanded_url": "https://x.com/YangDowond/status/2095503234844811294/photo/1",
+              "media_key": "3_2095503225034321920",
+              "start": 108,
+              "url": "https://t.co/4RafXuwupX"
+            },
+            {
+              "display_url": "pic.x.com/4RafXuwupX",
+              "end": 131,
+              "expanded_url": "https://x.com/YangDowond/status/2095503234844811294/photo/1",
+              "media_key": "3_2095503225072070656",
+              "start": 108,
+              "url": "https://t.co/4RafXuwupX"
+            },
+            {
+              "display_url": "pic.x.com/4RafXuwupX",
+              "end": 131,
+              "expanded_url": "https://x.com/YangDowond/status/2095503234844811294/photo/1",
+              "media_key": "3_2095503225042681856",
+              "start": 108,
+              "url": "https://t.co/4RafXuwupX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095503234844811294",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095503225042739200"
+          },
+          {
+            "media_key": "3_2095503225034321920"
+          },
+          {
+            "media_key": "3_2095503225072070656"
+          },
+          {
+            "media_key": "3_2095503225042681856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "给各位度虫推荐一个油管频道，来自荷兰的Drugslab，老资历这一块，可惜就是他们好久都没有更新了😢\n我在2019年翻译了他们的三个视频：一个是关于地西泮的测评，一个关于🌵（麦斯卡林）的测评还有一个是Rush的测评\n可惜碍于b站的审核，最终只有麦斯卡林和地西泮的视频发到了b站，各位想看的可以去搜一下，bv号分别是BV1Hb411C75Q和BV1Ct411h7pQ\n然后比较可惜的是因为是荷兰国家电视台（NPO）资助的频道嘛，视频当然都是荷兰语的，不过有英文CC字幕，所以还是推荐各位看看"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 548,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "给各位度虫推荐一个油管频道，来自荷兰的Drugslab，老资历这一块，可惜就是他们好久都没有更新了😢\n我在2019年翻译了他们的三个视频：一个是关于地西泮的测评，一个关于🌵（麦斯卡林）的测评还有一个是Rush的测评 https://t.co/4RafXuwupX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095533005486076315",
+        "name": "Super Angle",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990814524556128256/1779562766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 149,
+          "like_count": 409,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "angle71766",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095517133988077995",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 297,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 576
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
